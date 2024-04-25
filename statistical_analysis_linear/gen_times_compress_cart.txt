@@ -1,0 +1,705 @@
+
+----------------------------------------------- COMMONS-COMPRESS_1_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 112 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_1_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 97 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_1_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 98 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_1_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 107 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_1_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 91 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_2_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 82 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_2_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 80 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_2_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 81 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_2_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 79 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_2_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 75 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_3_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 71 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_3_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 124 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_3_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 84 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_3_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 78 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_3_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 87 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_4_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 393 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_4_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 338 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_4_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 371 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_4_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 351 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_4_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 319 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_5_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 86 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_5_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 94 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_5_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 85 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_5_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 86 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_5_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 85 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_6_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 33 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_6_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 41 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_6_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 42 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_6_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 32 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_6_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 38 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_7_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 79 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_7_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 70 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_7_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 78 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_7_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 79 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_7_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 80 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_8_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 102 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_8_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 83 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_8_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 82 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_8_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 80 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_8_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 78 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_9_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 83 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_9_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 79 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_9_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 81 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_9_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 118 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_9_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 94 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_10_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 86 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_10_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 88 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_10_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 85 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_10_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 89 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_10_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 85 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_11_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 84 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_11_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 83 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_11_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 85 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_11_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 83 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_11_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 84 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_12_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 98 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_12_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 95 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_12_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 85 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_12_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 97 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_12_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 95 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_13_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 97 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_13_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 97 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_13_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 97 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_13_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 99 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_13_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 104 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_14_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 83 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_14_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 34 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_14_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 77 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_14_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 36 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_14_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 79 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_15_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 96 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_15_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 91 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_15_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 89 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_15_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 92 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_15_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 85 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_16_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 76 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_16_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 75 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_16_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 75 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_16_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 70 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_16_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 73 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_17_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 74 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_17_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 77 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_17_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 78 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_17_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 78 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_17_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 75 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_18_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 95 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_18_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 79 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_18_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 80 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_18_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 81 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_18_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 79 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_19_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 71 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_19_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 28 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_19_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 25 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_19_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 21 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_19_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 45 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_20_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 99 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_20_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 101 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_20_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 102 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_20_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 95 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_20_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 103 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_21_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 80 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_21_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 91 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_21_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 92 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_21_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 84 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_21_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 117 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_22_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 71 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_22_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 69 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_22_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 75 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_22_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 70 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_22_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 71 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_23_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 72 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_23_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 155 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_23_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 73 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_23_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 75 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_23_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 71 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_24_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 74 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_24_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 76 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_24_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 75 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_24_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 77 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_24_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 76 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_25_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 72 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_25_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 72 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_25_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 71 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_25_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 84 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_25_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 75 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_26_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 21 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_26_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 20 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_26_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 38 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_26_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 33 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_26_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 61 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_27_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 74 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_27_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 76 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_27_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 78 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_27_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 75 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_27_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 77 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_28_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 74 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_28_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 75 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_28_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 77 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_28_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 76 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_28_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 76 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_29_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 538 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_29_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 545 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_29_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 581 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_29_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 551 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_29_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 539 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_30_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 71 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_30_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 71 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_30_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 71 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_30_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 983 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_30_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 92 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_31_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 102 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_31_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 97 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_31_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 102 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_31_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 78 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_31_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 77 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_32_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 75 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_32_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 76 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_32_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 75 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_32_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 92 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_32_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 71 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_33_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 122 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_33_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 139 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_33_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 136 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_33_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 135 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_33_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 138 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_34_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 10 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_34_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 11 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_34_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 69 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_34_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 11 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_34_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 12 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_35_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 76 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_35_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 76 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_35_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 76 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_35_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 76 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_35_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 77 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_36_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 72 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_36_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 73 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_36_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 72 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_36_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 73 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_36_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 72 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_37_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 75 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_37_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 82 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_37_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 74 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_37_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 71 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_37_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 75 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_38_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 82 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_38_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 84 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_38_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 84 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_38_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 84 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_38_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 84 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_39_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 74 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_39_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 73 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_39_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 73 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_39_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 73 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_39_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 74 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_40_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 31 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_40_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 33 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_40_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 14 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_40_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 31 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_40_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 23 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_41_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 74 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_41_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 75 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_41_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 73 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_41_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 76 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_41_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 73 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_42_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 83 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_42_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 85 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_42_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 83 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_42_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 84 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_42_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 83 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_43_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 84 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_43_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 82 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_43_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 94 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_43_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 95 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_43_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 87 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_44_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 11 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_44_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 14 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_44_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 18 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_44_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 19 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_44_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 11 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_45_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 76 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_45_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 75 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_45_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 75 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_45_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 75 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_45_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 75 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_46_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 76 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_46_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 77 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_46_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 75 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_46_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 26 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_46_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 58 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_47_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 81 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_47_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 77 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_47_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 73 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_47_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 78 seconds
+
+----------------------------------------------- COMMONS-COMPRESS_47_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 78 seconds

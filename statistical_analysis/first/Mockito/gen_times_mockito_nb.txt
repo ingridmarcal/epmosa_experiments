@@ -1,0 +1,561 @@
+
+----------------------------------------------- MOCKITO_1_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 187 seconds
+
+----------------------------------------------- MOCKITO_1_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 176 seconds
+
+----------------------------------------------- MOCKITO_2_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 165 seconds
+
+----------------------------------------------- MOCKITO_2_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 182 seconds
+
+----------------------------------------------- MOCKITO_2_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 145 seconds
+
+----------------------------------------------- MOCKITO_2_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 139 seconds
+
+----------------------------------------------- MOCKITO_2_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 147 seconds
+
+----------------------------------------------- MOCKITO_3_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 139 seconds
+
+----------------------------------------------- MOCKITO_3_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 163 seconds
+
+----------------------------------------------- MOCKITO_3_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 154 seconds
+
+----------------------------------------------- MOCKITO_3_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 165 seconds
+
+----------------------------------------------- MOCKITO_3_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 176 seconds
+
+----------------------------------------------- MOCKITO_4_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 174 seconds
+
+----------------------------------------------- MOCKITO_4_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 153 seconds
+
+----------------------------------------------- MOCKITO_4_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 152 seconds
+
+----------------------------------------------- MOCKITO_4_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 137 seconds
+
+----------------------------------------------- MOCKITO_4_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 134 seconds
+
+----------------------------------------------- MOCKITO_5_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 119 seconds
+
+----------------------------------------------- MOCKITO_5_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 143 seconds
+
+----------------------------------------------- MOCKITO_5_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 147 seconds
+
+----------------------------------------------- MOCKITO_5_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 131 seconds
+
+----------------------------------------------- MOCKITO_5_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 137 seconds
+
+----------------------------------------------- MOCKITO_6_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 4 seconds
+
+----------------------------------------------- MOCKITO_6_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 5 seconds
+
+----------------------------------------------- MOCKITO_6_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 4 seconds
+
+----------------------------------------------- MOCKITO_6_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 4 seconds
+
+----------------------------------------------- MOCKITO_6_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 4 seconds
+
+----------------------------------------------- MOCKITO_7_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 4 seconds
+
+----------------------------------------------- MOCKITO_7_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 4 seconds
+
+----------------------------------------------- MOCKITO_7_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 4 seconds
+
+----------------------------------------------- MOCKITO_7_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 3 seconds
+
+----------------------------------------------- MOCKITO_7_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 5 seconds
+
+----------------------------------------------- MOCKITO_8_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 4 seconds
+
+----------------------------------------------- MOCKITO_8_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 4 seconds
+
+----------------------------------------------- MOCKITO_8_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 4 seconds
+
+----------------------------------------------- MOCKITO_8_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 4 seconds
+
+----------------------------------------------- MOCKITO_8_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 3 seconds
+
+----------------------------------------------- MOCKITO_9_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 3 seconds
+
+----------------------------------------------- MOCKITO_9_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 5 seconds
+
+----------------------------------------------- MOCKITO_9_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 4 seconds
+
+----------------------------------------------- MOCKITO_9_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 4 seconds
+
+----------------------------------------------- MOCKITO_9_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 4 seconds
+
+----------------------------------------------- MOCKITO_10_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 4 seconds
+
+----------------------------------------------- MOCKITO_10_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 4 seconds
+
+----------------------------------------------- MOCKITO_10_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 4 seconds
+
+----------------------------------------------- MOCKITO_10_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 4 seconds
+
+----------------------------------------------- MOCKITO_10_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 4 seconds
+
+----------------------------------------------- MOCKITO_11_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 135 seconds
+
+----------------------------------------------- MOCKITO_11_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 107 seconds
+
+----------------------------------------------- MOCKITO_11_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 110 seconds
+
+----------------------------------------------- MOCKITO_11_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 155 seconds
+
+----------------------------------------------- MOCKITO_11_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 146 seconds
+
+----------------------------------------------- MOCKITO_12_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 4 seconds
+
+----------------------------------------------- MOCKITO_12_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 4 seconds
+
+----------------------------------------------- MOCKITO_12_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 4 seconds
+
+----------------------------------------------- MOCKITO_12_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 5 seconds
+
+----------------------------------------------- MOCKITO_12_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 4 seconds
+
+----------------------------------------------- MOCKITO_13_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 4 seconds
+
+----------------------------------------------- MOCKITO_13_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 4 seconds
+
+----------------------------------------------- MOCKITO_13_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 5 seconds
+
+----------------------------------------------- MOCKITO_13_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 4 seconds
+
+----------------------------------------------- MOCKITO_13_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 4 seconds
+
+----------------------------------------------- MOCKITO_14_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 4 seconds
+
+----------------------------------------------- MOCKITO_14_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 4 seconds
+
+----------------------------------------------- MOCKITO_14_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 4 seconds
+
+----------------------------------------------- MOCKITO_14_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 4 seconds
+
+----------------------------------------------- MOCKITO_14_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 4 seconds
+
+----------------------------------------------- MOCKITO_15_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 4 seconds
+
+----------------------------------------------- MOCKITO_15_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 4 seconds
+
+----------------------------------------------- MOCKITO_15_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 4 seconds
+
+----------------------------------------------- MOCKITO_15_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 4 seconds
+
+----------------------------------------------- MOCKITO_15_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 4 seconds
+
+----------------------------------------------- MOCKITO_16_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 1 seconds
+
+----------------------------------------------- MOCKITO_16_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 1 seconds
+
+----------------------------------------------- MOCKITO_16_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 0 seconds
+
+----------------------------------------------- MOCKITO_16_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 1 seconds
+
+----------------------------------------------- MOCKITO_16_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 1 seconds
+
+----------------------------------------------- MOCKITO_17_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 1 seconds
+
+----------------------------------------------- MOCKITO_17_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 1 seconds
+
+----------------------------------------------- MOCKITO_17_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 0 seconds
+
+----------------------------------------------- MOCKITO_17_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 1 seconds
+
+----------------------------------------------- MOCKITO_17_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 1 seconds
+
+----------------------------------------------- MOCKITO_18_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 149 seconds
+
+----------------------------------------------- MOCKITO_18_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 153 seconds
+
+----------------------------------------------- MOCKITO_18_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 145 seconds
+
+----------------------------------------------- MOCKITO_18_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 133 seconds
+
+----------------------------------------------- MOCKITO_18_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 151 seconds
+
+----------------------------------------------- MOCKITO_19_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 355 seconds
+
+----------------------------------------------- MOCKITO_19_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 345 seconds
+
+----------------------------------------------- MOCKITO_19_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 329 seconds
+
+----------------------------------------------- MOCKITO_19_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 325 seconds
+
+----------------------------------------------- MOCKITO_19_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 352 seconds
+
+----------------------------------------------- MOCKITO_20_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 156 seconds
+
+----------------------------------------------- MOCKITO_20_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 153 seconds
+
+----------------------------------------------- MOCKITO_20_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 155 seconds
+
+----------------------------------------------- MOCKITO_20_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 151 seconds
+
+----------------------------------------------- MOCKITO_20_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 149 seconds
+
+----------------------------------------------- MOCKITO_21_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 91 seconds
+
+----------------------------------------------- MOCKITO_21_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 56 seconds
+
+----------------------------------------------- MOCKITO_21_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 63 seconds
+
+----------------------------------------------- MOCKITO_21_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 61 seconds
+
+----------------------------------------------- MOCKITO_21_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 63 seconds
+
+----------------------------------------------- MOCKITO_22_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 4 seconds
+
+----------------------------------------------- MOCKITO_22_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 3 seconds
+
+----------------------------------------------- MOCKITO_22_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 4 seconds
+
+----------------------------------------------- MOCKITO_22_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 4 seconds
+
+----------------------------------------------- MOCKITO_22_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 4 seconds
+
+----------------------------------------------- MOCKITO_23_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 4 seconds
+
+----------------------------------------------- MOCKITO_23_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 4 seconds
+
+----------------------------------------------- MOCKITO_23_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 3 seconds
+
+----------------------------------------------- MOCKITO_23_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 5 seconds
+
+----------------------------------------------- MOCKITO_23_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 3 seconds
+
+----------------------------------------------- MOCKITO_24_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 95 seconds
+
+----------------------------------------------- MOCKITO_24_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 97 seconds
+
+----------------------------------------------- MOCKITO_24_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 96 seconds
+
+----------------------------------------------- MOCKITO_24_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 94 seconds
+
+----------------------------------------------- MOCKITO_24_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 94 seconds
+
+----------------------------------------------- MOCKITO_25_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 4 seconds
+
+----------------------------------------------- MOCKITO_25_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 4 seconds
+
+----------------------------------------------- MOCKITO_25_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 4 seconds
+
+----------------------------------------------- MOCKITO_25_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 4 seconds
+
+----------------------------------------------- MOCKITO_25_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 5 seconds
+
+----------------------------------------------- MOCKITO_26_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 4 seconds
+
+----------------------------------------------- MOCKITO_26_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 4 seconds
+
+----------------------------------------------- MOCKITO_26_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 4 seconds
+
+----------------------------------------------- MOCKITO_26_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 4 seconds
+
+----------------------------------------------- MOCKITO_26_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 5 seconds
+
+----------------------------------------------- MOCKITO_27_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 4 seconds
+
+----------------------------------------------- MOCKITO_27_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 5 seconds
+
+----------------------------------------------- MOCKITO_27_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 5 seconds
+
+----------------------------------------------- MOCKITO_27_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 4 seconds
+
+----------------------------------------------- MOCKITO_27_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 4 seconds
+
+----------------------------------------------- MOCKITO_28_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 7 seconds
+
+----------------------------------------------- MOCKITO_28_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 5 seconds
+
+----------------------------------------------- MOCKITO_28_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 4 seconds
+
+----------------------------------------------- MOCKITO_28_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 7 seconds
+
+----------------------------------------------- MOCKITO_28_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 7 seconds
+
+----------------------------------------------- MOCKITO_29_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 36 seconds
+
+----------------------------------------------- MOCKITO_29_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 32 seconds
+
+----------------------------------------------- MOCKITO_29_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 42 seconds
+
+----------------------------------------------- MOCKITO_29_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 32 seconds
+
+----------------------------------------------- MOCKITO_29_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 37 seconds
+
+----------------------------------------------- MOCKITO_30_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 5 seconds
+
+----------------------------------------------- MOCKITO_30_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 4 seconds
+
+----------------------------------------------- MOCKITO_30_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 5 seconds
+
+----------------------------------------------- MOCKITO_30_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 4 seconds
+
+----------------------------------------------- MOCKITO_30_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 4 seconds
+
+----------------------------------------------- MOCKITO_31_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 4 seconds
+
+----------------------------------------------- MOCKITO_31_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 4 seconds
+
+----------------------------------------------- MOCKITO_31_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 4 seconds
+
+----------------------------------------------- MOCKITO_31_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 4 seconds
+
+----------------------------------------------- MOCKITO_31_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 5 seconds
+
+----------------------------------------------- MOCKITO_32_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 4 seconds
+
+----------------------------------------------- MOCKITO_32_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 5 seconds
+
+----------------------------------------------- MOCKITO_32_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 4 seconds
+
+----------------------------------------------- MOCKITO_32_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 4 seconds
+
+----------------------------------------------- MOCKITO_32_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 4 seconds
+
+----------------------------------------------- MOCKITO_33_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 91 seconds
+
+----------------------------------------------- MOCKITO_33_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 88 seconds
+
+----------------------------------------------- MOCKITO_33_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 91 seconds
+
+----------------------------------------------- MOCKITO_33_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 80 seconds
+
+----------------------------------------------- MOCKITO_33_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 77 seconds
+
+----------------------------------------------- MOCKITO_34_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 1 seconds
+
+----------------------------------------------- MOCKITO_34_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 0 seconds
+
+----------------------------------------------- MOCKITO_34_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 1 seconds
+
+----------------------------------------------- MOCKITO_34_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 0 seconds
+
+----------------------------------------------- MOCKITO_34_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 1 seconds
+
+----------------------------------------------- MOCKITO_35_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 0 seconds
+
+----------------------------------------------- MOCKITO_35_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 1 seconds
+
+----------------------------------------------- MOCKITO_35_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 0 seconds
+
+----------------------------------------------- MOCKITO_35_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 1 seconds
+
+----------------------------------------------- MOCKITO_35_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 0 seconds
+
+----------------------------------------------- MOCKITO_36_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 0 seconds
+
+----------------------------------------------- MOCKITO_36_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 1 seconds
+
+----------------------------------------------- MOCKITO_36_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 0 seconds
+
+----------------------------------------------- MOCKITO_36_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 1 seconds
+
+----------------------------------------------- MOCKITO_36_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 0 seconds
+
+----------------------------------------------- MOCKITO_37_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 1 seconds
+
+----------------------------------------------- MOCKITO_37_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 0 seconds
+
+----------------------------------------------- MOCKITO_37_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 1 seconds
+
+----------------------------------------------- MOCKITO_37_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 0 seconds
+
+----------------------------------------------- MOCKITO_37_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 1 seconds
+
+----------------------------------------------- MOCKITO_38_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 0 seconds
+
+----------------------------------------------- MOCKITO_38_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 1 seconds
+
+----------------------------------------------- MOCKITO_38_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 0 seconds
+
+----------------------------------------------- MOCKITO_38_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 1 seconds
+
+----------------------------------------------- MOCKITO_38_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 0 seconds

@@ -1,0 +1,97 @@
+
+
+----------------------------------------------- JODA-TIME_1_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 1
+  - org.joda.time.TestPartial_Constructors::testConstructorEx7_TypeArray_intArray
+Dev tests execution time: 13 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ FAIL
+Executed command:  cd /home/ingridmarcal/Documents/PrimeiraGeracao/joda-time/joda-time_1_buggy && ant -f /home/ingridmarcal/Documents/defects4j/framework/projects/defects4j.build.xml -Dd4j.home=/home/ingridmarcal/Documents/defects4j -Dd4j.dir.projects=/home/ingridmarcal/Documents/defects4j/framework/projects -Dbasedir=/home/ingridmarcal/Documents/PrimeiraGeracao/joda-time/joda-time_1_buggy -Dd4j.test.dir=/home/ingridmarcal/Documents/PrimeiraGeracao/joda-time/joda-time_1_buggy/.test_suite compile.gen.tests 2>&1
+Buildfile: /home/ingridmarcal/Documents/defects4j/framework/projects/defects4j.build.xml
+
+test-offline:
+
+get-deps:
+
+joda-time-from-maven.compile:
+    [javac] /home/ingridmarcal/Documents/PrimeiraGeracao/joda-time/joda-time_1_buggy/maven-build.xml:77: warning: 'includeantruntime' was not set, defaulting to build.sysclasspath=last; set to false for repeatable builds
+
+joda-time.compile:
+
+compile:
+     [java] Writing zoneinfo files
+     [java] Writing ZoneInfoMap
+
+compile.gen.tests:
+     [echo] classes.dir: target/classes
+     [echo] build.home: target/classes/..
+   [delete] Deleting directory /home/ingridmarcal/Documents/PrimeiraGeracao/joda-time/joda-time_1_buggy/.classes_testgen
+    [javac] /home/ingridmarcal/Documents/defects4j/framework/projects/defects4j.build.xml:265: warning: 'includeantruntime' was not set, defaulting to build.sysclasspath=last; set to false for repeatable builds
+    [javac] Compiling 4 source files to /home/ingridmarcal/Documents/PrimeiraGeracao/joda-time/joda-time_1_buggy/.classes_testgen
+    [javac] /home/ingridmarcal/Documents/PrimeiraGeracao/joda-time/joda-time_1_buggy/.test_suite/org/joda/time/Partial_ESTest.java:34: error: error while writing Partial_ESTest: /home/ingridmarcal/Documents/PrimeiraGeracao/joda-time/joda-time_1_buggy/.classes_testgen/org/joda/time/Partial_ESTest.class (Permission denied)
+    [javac] public class Partial_ESTest extends Partial_ESTest_scaffolding {
+    [javac]        ^
+    [javac] 1 error
+
+BUILD FAILED
+/home/ingridmarcal/Documents/defects4j/framework/projects/defects4j.build.xml:265: Compile failed; see the compiler error output for details.
+
+Total time: 2 seconds
+Cannot compile extracted test suite! at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 126.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 3 seconds
+
+
+
+----------------------------------------------- JODA-TIME_1_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 1
+  - org.joda.time.TestPartial_Constructors::testConstructorEx7_TypeArray_intArray
+Dev tests execution time: 12 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 6 seconds
+
+
+
+----------------------------------------------- JODA-TIME_1_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 1
+  - org.joda.time.TestPartial_Constructors::testConstructorEx7_TypeArray_intArray
+Dev tests execution time: 18 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 11 seconds
+

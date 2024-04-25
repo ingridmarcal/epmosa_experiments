@@ -1,0 +1,72 @@
+----------------------------------------------- COMMONS-CODEC_1_BUGGY VERSION: 1 ----------------------------------
+Total Commits: 418
+Total Lines of Code: 32912
+Test generation time: 0 seconds
+----------------------------------------------- COMMONS-CODEC_2_BUGGY VERSION: 1 ----------------------------------
+Total Commits: 466
+Total Lines of Code: 35960
+Test generation time: 0 seconds
+----------------------------------------------- COMMONS-CODEC_3_BUGGY VERSION: 1 ----------------------------------
+Total Commits: 562
+Total Lines of Code: 41292
+Test generation time: 1 seconds
+----------------------------------------------- COMMONS-CODEC_4_BUGGY VERSION: 1 ----------------------------------
+Total Commits: 596
+Total Lines of Code: 42670
+Test generation time: 0 seconds
+----------------------------------------------- COMMONS-CODEC_5_BUGGY VERSION: 1 ----------------------------------
+Total Commits: 614
+Total Lines of Code: 43250
+Test generation time: 0 seconds
+----------------------------------------------- COMMONS-CODEC_6_BUGGY VERSION: 1 ----------------------------------
+Total Commits: 624
+Total Lines of Code: 44644
+Test generation time: 0 seconds
+----------------------------------------------- COMMONS-CODEC_7_BUGGY VERSION: 1 ----------------------------------
+Total Commits: 627
+Total Lines of Code: 44714
+Test generation time: 0 seconds
+----------------------------------------------- COMMONS-CODEC_8_BUGGY VERSION: 1 ----------------------------------
+Total Commits: 632
+Total Lines of Code: 44796
+Test generation time: 0 seconds
+----------------------------------------------- COMMONS-CODEC_9_BUGGY VERSION: 1 ----------------------------------
+Total Commits: 662
+Total Lines of Code: 49528
+Test generation time: 0 seconds
+----------------------------------------------- COMMONS-CODEC_10_BUGGY VERSION: 1 ----------------------------------
+Total Commits: 741
+Total Lines of Code: 49256
+Test generation time: 0 seconds
+----------------------------------------------- COMMONS-CODEC_11_BUGGY VERSION: 1 ----------------------------------
+Total Commits: 943
+Total Lines of Code: 76240
+Test generation time: 0 seconds
+----------------------------------------------- COMMONS-CODEC_12_BUGGY VERSION: 1 ----------------------------------
+Total Commits: 981
+Total Lines of Code: 78028
+Test generation time: 0 seconds
+----------------------------------------------- COMMONS-CODEC_13_BUGGY VERSION: 1 ----------------------------------
+Total Commits: 1337
+Total Lines of Code: 87130
+Test generation time: 0 seconds
+----------------------------------------------- COMMONS-CODEC_14_BUGGY VERSION: 1 ----------------------------------
+Total Commits: 1348
+Total Lines of Code: 86952
+Test generation time: 0 seconds
+----------------------------------------------- COMMONS-CODEC_15_BUGGY VERSION: 1 ----------------------------------
+Total Commits: 1438
+Total Lines of Code: 94580
+Test generation time: 0 seconds
+----------------------------------------------- COMMONS-CODEC_16_BUGGY VERSION: 1 ----------------------------------
+Total Commits: 1448
+Total Lines of Code: 94566
+Test generation time: 0 seconds
+----------------------------------------------- COMMONS-CODEC_17_BUGGY VERSION: 1 ----------------------------------
+Total Commits: 1624
+Total Lines of Code: 100972
+Test generation time: 1 seconds
+----------------------------------------------- COMMONS-CODEC_18_BUGGY VERSION: 1 ----------------------------------
+Total Commits: 1629
+Total Lines of Code: 101048
+Test generation time: 0 seconds

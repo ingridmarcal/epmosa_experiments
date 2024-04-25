@@ -1,0 +1,270 @@
+
+----------------------------------------------- COMMONS-CODEC_1_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 96 seconds
+
+----------------------------------------------- COMMONS-CODEC_1_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 117 seconds
+
+----------------------------------------------- COMMONS-CODEC_1_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 111 seconds
+
+----------------------------------------------- COMMONS-CODEC_1_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 100 seconds
+
+----------------------------------------------- COMMONS-CODEC_1_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 113 seconds
+
+----------------------------------------------- COMMONS-CODEC_2_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 88 seconds
+
+----------------------------------------------- COMMONS-CODEC_2_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 84 seconds
+
+----------------------------------------------- COMMONS-CODEC_2_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 93 seconds
+
+----------------------------------------------- COMMONS-CODEC_2_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 154 seconds
+
+----------------------------------------------- COMMONS-CODEC_2_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 91 seconds
+
+----------------------------------------------- COMMONS-CODEC_3_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 105 seconds
+
+----------------------------------------------- COMMONS-CODEC_3_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 115 seconds
+
+----------------------------------------------- COMMONS-CODEC_3_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 123 seconds
+
+----------------------------------------------- COMMONS-CODEC_3_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 124 seconds
+
+----------------------------------------------- COMMONS-CODEC_3_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 134 seconds
+
+----------------------------------------------- COMMONS-CODEC_4_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 89 seconds
+
+----------------------------------------------- COMMONS-CODEC_4_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 81 seconds
+
+----------------------------------------------- COMMONS-CODEC_4_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 83 seconds
+
+----------------------------------------------- COMMONS-CODEC_4_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 85 seconds
+
+----------------------------------------------- COMMONS-CODEC_4_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 95 seconds
+
+----------------------------------------------- COMMONS-CODEC_5_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 100 seconds
+
+----------------------------------------------- COMMONS-CODEC_5_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 94 seconds
+
+----------------------------------------------- COMMONS-CODEC_5_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 96 seconds
+
+----------------------------------------------- COMMONS-CODEC_5_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 93 seconds
+
+----------------------------------------------- COMMONS-CODEC_5_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 94 seconds
+
+----------------------------------------------- COMMONS-CODEC_6_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 126 seconds
+
+----------------------------------------------- COMMONS-CODEC_6_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 53 seconds
+
+----------------------------------------------- COMMONS-CODEC_6_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 70 seconds
+
+----------------------------------------------- COMMONS-CODEC_6_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 50 seconds
+
+----------------------------------------------- COMMONS-CODEC_6_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 76 seconds
+
+----------------------------------------------- COMMONS-CODEC_7_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 106 seconds
+
+----------------------------------------------- COMMONS-CODEC_7_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 98 seconds
+
+----------------------------------------------- COMMONS-CODEC_7_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 98 seconds
+
+----------------------------------------------- COMMONS-CODEC_7_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 87 seconds
+
+----------------------------------------------- COMMONS-CODEC_7_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 87 seconds
+
+----------------------------------------------- COMMONS-CODEC_8_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 171 seconds
+
+----------------------------------------------- COMMONS-CODEC_8_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 154 seconds
+
+----------------------------------------------- COMMONS-CODEC_8_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 164 seconds
+
+----------------------------------------------- COMMONS-CODEC_8_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 171 seconds
+
+----------------------------------------------- COMMONS-CODEC_8_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 228 seconds
+
+----------------------------------------------- COMMONS-CODEC_9_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 92 seconds
+
+----------------------------------------------- COMMONS-CODEC_9_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 90 seconds
+
+----------------------------------------------- COMMONS-CODEC_9_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 99 seconds
+
+----------------------------------------------- COMMONS-CODEC_9_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 118 seconds
+
+----------------------------------------------- COMMONS-CODEC_9_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 121 seconds
+
+----------------------------------------------- COMMONS-CODEC_10_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 9 seconds
+
+----------------------------------------------- COMMONS-CODEC_10_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 15 seconds
+
+----------------------------------------------- COMMONS-CODEC_10_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 10 seconds
+
+----------------------------------------------- COMMONS-CODEC_10_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 11 seconds
+
+----------------------------------------------- COMMONS-CODEC_10_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 12 seconds
+
+----------------------------------------------- COMMONS-CODEC_11_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 74 seconds
+
+----------------------------------------------- COMMONS-CODEC_11_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 69 seconds
+
+----------------------------------------------- COMMONS-CODEC_11_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 71 seconds
+
+----------------------------------------------- COMMONS-CODEC_11_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 74 seconds
+
+----------------------------------------------- COMMONS-CODEC_11_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 76 seconds
+
+----------------------------------------------- COMMONS-CODEC_12_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 84 seconds
+
+----------------------------------------------- COMMONS-CODEC_12_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 83 seconds
+
+----------------------------------------------- COMMONS-CODEC_12_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 79 seconds
+
+----------------------------------------------- COMMONS-CODEC_12_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 79 seconds
+
+----------------------------------------------- COMMONS-CODEC_12_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 77 seconds
+
+----------------------------------------------- COMMONS-CODEC_13_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 105 seconds
+
+----------------------------------------------- COMMONS-CODEC_13_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 99 seconds
+
+----------------------------------------------- COMMONS-CODEC_13_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 102 seconds
+
+----------------------------------------------- COMMONS-CODEC_13_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 119 seconds
+
+----------------------------------------------- COMMONS-CODEC_13_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 123 seconds
+
+----------------------------------------------- COMMONS-CODEC_14_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 86 seconds
+
+----------------------------------------------- COMMONS-CODEC_14_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 85 seconds
+
+----------------------------------------------- COMMONS-CODEC_14_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 78 seconds
+
+----------------------------------------------- COMMONS-CODEC_14_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 75 seconds
+
+----------------------------------------------- COMMONS-CODEC_14_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 78 seconds
+
+----------------------------------------------- COMMONS-CODEC_15_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 70 seconds
+
+----------------------------------------------- COMMONS-CODEC_15_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 72 seconds
+
+----------------------------------------------- COMMONS-CODEC_15_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 74 seconds
+
+----------------------------------------------- COMMONS-CODEC_15_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 74 seconds
+
+----------------------------------------------- COMMONS-CODEC_15_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 72 seconds
+
+----------------------------------------------- COMMONS-CODEC_16_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 27 seconds
+
+----------------------------------------------- COMMONS-CODEC_16_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 23 seconds
+
+----------------------------------------------- COMMONS-CODEC_16_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 22 seconds
+
+----------------------------------------------- COMMONS-CODEC_16_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 22 seconds
+
+----------------------------------------------- COMMONS-CODEC_16_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 34 seconds
+
+----------------------------------------------- COMMONS-CODEC_17_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 25 seconds
+
+----------------------------------------------- COMMONS-CODEC_17_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 27 seconds
+
+----------------------------------------------- COMMONS-CODEC_17_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 15 seconds
+
+----------------------------------------------- COMMONS-CODEC_17_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 15 seconds
+
+----------------------------------------------- COMMONS-CODEC_17_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 15 seconds
+
+----------------------------------------------- COMMONS-CODEC_18_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 17 seconds
+
+----------------------------------------------- COMMONS-CODEC_18_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 14 seconds
+
+----------------------------------------------- COMMONS-CODEC_18_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 13 seconds
+
+----------------------------------------------- COMMONS-CODEC_18_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 19 seconds
+
+----------------------------------------------- COMMONS-CODEC_18_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 16 seconds

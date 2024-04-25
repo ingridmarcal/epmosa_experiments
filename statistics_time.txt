@@ -1,0 +1,108 @@
+----------------------------------------------- JODA-TIME_1_BUGGY VERSION: 1 ----------------------------------
+Total Commits: 1721
+Total Lines of Code: 341868
+Test generation time: 0 seconds
+----------------------------------------------- JODA-TIME_2_BUGGY VERSION: 1 ----------------------------------
+Total Commits: 1720
+Total Lines of Code: 342770
+Test generation time: 0 seconds
+----------------------------------------------- JODA-TIME_3_BUGGY VERSION: 1 ----------------------------------
+Total Commits: 1719
+Total Lines of Code: 341764
+Test generation time: 0 seconds
+----------------------------------------------- JODA-TIME_4_BUGGY VERSION: 1 ----------------------------------
+Total Commits: 1718
+Total Lines of Code: 341396
+Test generation time: 1 seconds
+----------------------------------------------- JODA-TIME_5_BUGGY VERSION: 1 ----------------------------------
+Total Commits: 1705
+Total Lines of Code: 340434
+Test generation time: 0 seconds
+----------------------------------------------- JODA-TIME_6_BUGGY VERSION: 1 ----------------------------------
+Total Commits: 1668
+Total Lines of Code: 338860
+Test generation time: 0 seconds
+----------------------------------------------- JODA-TIME_7_BUGGY VERSION: 1 ----------------------------------
+Total Commits: 1659
+Total Lines of Code: 337816
+Test generation time: 0 seconds
+----------------------------------------------- JODA-TIME_8_BUGGY VERSION: 1 ----------------------------------
+Total Commits: 1648
+Total Lines of Code: 337304
+Test generation time: 0 seconds
+----------------------------------------------- JODA-TIME_9_BUGGY VERSION: 1 ----------------------------------
+Total Commits: 1647
+Total Lines of Code: 337222
+Test generation time: 0 seconds
+----------------------------------------------- JODA-TIME_10_BUGGY VERSION: 1 ----------------------------------
+Total Commits: 1643
+Total Lines of Code: 336854
+Test generation time: 1 seconds
+----------------------------------------------- JODA-TIME_11_BUGGY VERSION: 1 ----------------------------------
+Total Commits: 1632
+Total Lines of Code: 336138
+Test generation time: 0 seconds
+----------------------------------------------- JODA-TIME_12_BUGGY VERSION: 1 ----------------------------------
+Total Commits: 1598
+Total Lines of Code: 335550
+Test generation time: 0 seconds
+----------------------------------------------- JODA-TIME_13_BUGGY VERSION: 1 ----------------------------------
+Total Commits: 1587
+Total Lines of Code: 335112
+Test generation time: 0 seconds
+----------------------------------------------- JODA-TIME_14_BUGGY VERSION: 1 ----------------------------------
+Total Commits: 1576
+Total Lines of Code: 334086
+Test generation time: 0 seconds
+----------------------------------------------- JODA-TIME_15_BUGGY VERSION: 1 ----------------------------------
+Total Commits: 1574
+Total Lines of Code: 333870
+Test generation time: 0 seconds
+----------------------------------------------- JODA-TIME_16_BUGGY VERSION: 1 ----------------------------------
+Total Commits: 1572
+Total Lines of Code: 333190
+Test generation time: 1 seconds
+----------------------------------------------- JODA-TIME_17_BUGGY VERSION: 1 ----------------------------------
+Total Commits: 1557
+Total Lines of Code: 331660
+Test generation time: 0 seconds
+----------------------------------------------- JODA-TIME_18_BUGGY VERSION: 1 ----------------------------------
+Total Commits: 1547
+Total Lines of Code: 331176
+Test generation time: 0 seconds
+----------------------------------------------- JODA-TIME_19_BUGGY VERSION: 1 ----------------------------------
+Total Commits: 1544
+Total Lines of Code: 331092
+Test generation time: 0 seconds
+----------------------------------------------- JODA-TIME_20_BUGGY VERSION: 1 ----------------------------------
+Total Commits: 1543
+Total Lines of Code: 331026
+Test generation time: 0 seconds
+----------------------------------------------- JODA-TIME_21_BUGGY VERSION: 1 ----------------------------------
+Total Commits: 
+Total Lines of Code: 0
+Test generation time: 0 seconds
+----------------------------------------------- JODA-TIME_22_BUGGY VERSION: 1 ----------------------------------
+Total Commits: 1493
+Total Lines of Code: 664716
+Test generation time: 0 seconds
+----------------------------------------------- JODA-TIME_23_BUGGY VERSION: 1 ----------------------------------
+Total Commits: 1492
+Total Lines of Code: 664556
+Test generation time: 1 seconds
+----------------------------------------------- JODA-TIME_24_BUGGY VERSION: 1 ----------------------------------
+Total Commits: 1489
+Total Lines of Code: 664156
+Test generation time: 0 seconds
+----------------------------------------------- JODA-TIME_25_BUGGY VERSION: 1 ----------------------------------
+Total Commits: 1479
+Total Lines of Code: 663504
+Test generation time: 0 seconds
+----------------------------------------------- JODA-TIME_26_BUGGY VERSION: 1 ----------------------------------
+Total Commits: 1478
+Total Lines of Code: 663406
+Test generation time: 1 seconds
+----------------------------------------------- JODA-TIME_27_BUGGY VERSION: 1 ----------------------------------
+Total Commits: 1464
+Total Lines of Code: 660672
+Test generation time: 0 seconds

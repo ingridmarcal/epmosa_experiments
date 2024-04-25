@@ -1,0 +1,2197 @@
+
+
+----------------------------------------------- COMMONS-COMPRESS_1_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 1
+  - org.apache.commons.compress.archivers.CpioTestCase::testCpioUnarchive
+Dev tests execution time: 2 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 2 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 2 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 2 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 3 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 2 seconds
+
+
+
+----------------------------------------------- COMMONS-COMPRESS_2_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 1
+  - org.apache.commons.compress.archivers.ArTestCase::testArDelete
+Dev tests execution time: 2 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 2 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 2 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 2 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 3 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 4 seconds
+
+
+
+----------------------------------------------- COMMONS-COMPRESS_3_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 1
+  - org.apache.commons.compress.archivers.ArchiveOutputStreamTest::testFinish
+Dev tests execution time: 2 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 3 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 4 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 3 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 3 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 4 seconds
+
+
+
+----------------------------------------------- COMMONS-COMPRESS_4_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 10
+  - org.apache.commons.compress.archivers.jar.JarArchiveOutputStreamTest::testJarMarker
+  - org.apache.commons.compress.archivers.zip.UTF8ZipFilesTest::testCP437FileRoundtripImplicitUnicodeExtra
+  - org.apache.commons.compress.archivers.zip.UTF8ZipFilesTest::testUtf8FileRoundtripImplicitUnicodeExtra
+  - org.apache.commons.compress.archivers.zip.UTF8ZipFilesTest::testCP437FileRoundtripExplicitUnicodeExtra
+  - org.apache.commons.compress.archivers.zip.UTF8ZipFilesTest::testUtf8FileRoundtripExplicitUnicodeExtra
+  - org.apache.commons.compress.archivers.zip.UTF8ZipFilesTest::testASCIIFileRoundtripImplicitUnicodeExtra
+  - org.apache.commons.compress.archivers.zip.UTF8ZipFilesTest::testUtf8FileRoundtripNoEFSImplicitUnicodeExtra
+  - org.apache.commons.compress.archivers.zip.UTF8ZipFilesTest::testZipArchiveInputStreamReadsUnicodeFields
+  - org.apache.commons.compress.archivers.zip.UTF8ZipFilesTest::testASCIIFileRoundtripExplicitUnicodeExtra
+  - org.apache.commons.compress.archivers.zip.UTF8ZipFilesTest::testUtf8FileRoundtripNoEFSExplicitUnicodeExtra
+Dev tests execution time: 2 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 6 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 5 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 4 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 5 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 5 seconds
+
+
+
+----------------------------------------------- COMMONS-COMPRESS_5_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 1
+  - org.apache.commons.compress.archivers.zip.Maven221MultiVolumeTest::testRead7ZipMultiVolumeArchiveForStream
+Dev tests execution time: 2 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 2 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 3 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 5 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 3 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 3 seconds
+
+
+
+----------------------------------------------- COMMONS-COMPRESS_6_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 1
+  - org.apache.commons.compress.archivers.zip.ZipArchiveEntryTest::testNotEquals
+Dev tests execution time: 2 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 3 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 2 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 3 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 3 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 2 seconds
+
+
+
+----------------------------------------------- COMMONS-COMPRESS_7_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 1
+  - org.apache.commons.compress.archivers.tar.TarUtilsTest::testRoundTripNames
+Dev tests execution time: 2 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 3 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 2 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 2 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 3 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 3 seconds
+
+
+
+----------------------------------------------- COMMONS-COMPRESS_8_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 1
+  - org.apache.commons.compress.archivers.tar.TarUtilsTest::testParseOctalInvalid
+Dev tests execution time: 2 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 3 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 3 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 3 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 3 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 2 seconds
+
+
+
+----------------------------------------------- COMMONS-COMPRESS_9_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 1
+  - org.apache.commons.compress.archivers.tar.TarArchiveOutputStreamTest::testCount
+Dev tests execution time: 3 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 3 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 3 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 4 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 4 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 3 seconds
+
+
+
+----------------------------------------------- COMMONS-COMPRESS_10_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 1
+  - org.apache.commons.compress.archivers.zip.UTF8ZipFilesTest::testReadWinZipArchive
+Dev tests execution time: 3 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 2 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 3 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 2 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 3 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 3 seconds
+
+
+
+----------------------------------------------- COMMONS-COMPRESS_11_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 1
+  - org.apache.commons.compress.archivers.ArchiveStreamFactoryTest::shortTextFilesAreNoTARs
+Dev tests execution time: 2 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 3 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 4 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 4 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 4 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 4 seconds
+
+
+
+----------------------------------------------- COMMONS-COMPRESS_12_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 1
+  - org.apache.commons.compress.archivers.TarTestCase::testCOMPRESS178
+Dev tests execution time: 4 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 4 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 4 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 4 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 3 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 5 seconds
+
+
+
+----------------------------------------------- COMMONS-COMPRESS_13_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 2
+  - org.apache.commons.compress.archivers.zip.ZipArchiveInputStreamTest::winzipBackSlashWorkaround
+  - org.apache.commons.compress.archivers.zip.ZipFileTest::testWinzipBackSlashWorkaround
+Dev tests execution time: 2 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 4 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 5 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 3 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 4 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 2 seconds
+
+
+
+----------------------------------------------- COMMONS-COMPRESS_14_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 1
+  - org.apache.commons.compress.archivers.tar.TarArchiveInputStreamTest::workaroundForBrokenTimeHeader
+Dev tests execution time: 3 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 3 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 2 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 4 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 3 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 3 seconds
+
+
+
+----------------------------------------------- COMMONS-COMPRESS_15_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 1
+  - org.apache.commons.compress.archivers.zip.ZipArchiveEntryTest::testNullCommentEqualsEmptyComment
+Dev tests execution time: 4 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 4 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 3 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 4 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 3 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 3 seconds
+
+
+
+----------------------------------------------- COMMONS-COMPRESS_16_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 1
+  - org.apache.commons.compress.archivers.ArchiveStreamFactoryTest::aiffFilesAreNoTARs
+Dev tests execution time: 3 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 3 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 4 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 4 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 4 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 4 seconds
+
+
+
+----------------------------------------------- COMMONS-COMPRESS_17_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 1
+  - org.apache.commons.compress.archivers.tar.TarArchiveInputStreamTest::testCompress197
+Dev tests execution time: 3 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 3 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 3 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 2 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 3 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 4 seconds
+
+
+
+----------------------------------------------- COMMONS-COMPRESS_18_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 1
+  - org.apache.commons.compress.archivers.tar.TarArchiveOutputStreamTest::testWriteNonAsciiDirectoryNamePosixMode
+Dev tests execution time: 3 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 4 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 3 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 2 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 3 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 4 seconds
+
+
+
+----------------------------------------------- COMMONS-COMPRESS_19_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 2
+  - org.apache.commons.compress.archivers.tar.TarArchiveOutputStreamTest::testCount
+  - org.apache.commons.compress.archivers.zip.ZipFileTest::testExcessDataInZip64ExtraField
+Dev tests execution time: 3 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 4 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 4 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 3 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 4 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 3 seconds
+
+
+
+----------------------------------------------- COMMONS-COMPRESS_20_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 3
+  - org.apache.commons.compress.archivers.cpio.CpioArchiveInputStreamTest::testCpioUnarchiveCreatedByRedlineRpm
+  - org.apache.commons.compress.archivers.tar.TarArchiveOutputStreamTest::testCount
+  - org.apache.commons.compress.archivers.tar.TarArchiveOutputStreamTest::testPadsOutputToFullBlockLength
+Dev tests execution time: 4 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 4 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 3 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 4 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 4 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 4 seconds
+
+
+
+----------------------------------------------- COMMONS-COMPRESS_21_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 10
+  - org.apache.commons.compress.archivers.sevenz.SevenZOutputFileTest::testSevenEmptyFiles
+  - org.apache.commons.compress.archivers.sevenz.SevenZOutputFileTest::testEightFilesSomeNotEmpty
+  - org.apache.commons.compress.archivers.sevenz.SevenZOutputFileTest::testSixEmptyFiles
+  - org.apache.commons.compress.archivers.sevenz.SevenZOutputFileTest::testEightEmptyFiles
+  - org.apache.commons.compress.archivers.sevenz.SevenZOutputFileTest::testNineEmptyFiles
+  - org.apache.commons.compress.archivers.sevenz.SevenZOutputFileTest::testSixFilesSomeNotEmpty
+  - org.apache.commons.compress.archivers.sevenz.SevenZOutputFileTest::testNineFilesSomeNotEmpty
+  - org.apache.commons.compress.archivers.sevenz.SevenZOutputFileTest::testSevenFilesSomeNotEmpty
+  - org.apache.commons.compress.archivers.tar.TarArchiveOutputStreamTest::testCount
+  - org.apache.commons.compress.archivers.tar.TarArchiveOutputStreamTest::testPadsOutputToFullBlockLength
+Dev tests execution time: 5 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 4 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 5 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 3 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 4 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 4 seconds
+
+
+
+----------------------------------------------- COMMONS-COMPRESS_22_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 1
+  - org.apache.commons.compress.compressors.bzip2.PythonTruncatedBzip2Test::testPartialReadTruncatedData
+Dev tests execution time: 5 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 2 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 3 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 3 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 3 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 2 seconds
+
+
+
+----------------------------------------------- COMMONS-COMPRESS_23_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 1
+  - org.apache.commons.compress.archivers.sevenz.SevenZFileTest::testCompressedHeaderWithNonDefaultDictionarySize
+Dev tests execution time: 4 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 4 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 4 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 3 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 3 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 4 seconds
+
+
+
+----------------------------------------------- COMMONS-COMPRESS_24_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 1
+  - org.apache.commons.compress.archivers.tar.TarUtilsTest::testParseOctal
+Dev tests execution time: 6 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 3 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 3 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 3 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 3 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 4 seconds
+
+
+
+----------------------------------------------- COMMONS-COMPRESS_25_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 1
+  - org.apache.commons.compress.archivers.zip.ZipArchiveInputStreamTest::testReadingOfFirstStoredEntry
+Dev tests execution time: 5 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 4 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 4 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 4 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 3 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 4 seconds
+
+
+
+----------------------------------------------- COMMONS-COMPRESS_26_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 2
+  - org.apache.commons.compress.utils.IOUtilsTest::skipUsingRead
+  - org.apache.commons.compress.utils.IOUtilsTest::skipUsingSkipAndRead
+Dev tests execution time: 5 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 2 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 3 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 2 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 3 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 3 seconds
+
+
+
+----------------------------------------------- COMMONS-COMPRESS_27_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 1
+  - org.apache.commons.compress.archivers.tar.TarUtilsTest::testParseOctal
+Dev tests execution time: 7 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 4 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 3 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 4 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 4 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 3 seconds
+
+
+
+----------------------------------------------- COMMONS-COMPRESS_28_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 1
+  - org.apache.commons.compress.archivers.tar.TarArchiveInputStreamTest::shouldThrowAnExceptionOnTruncatedEntries
+Dev tests execution time: 7 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 5 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 4 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 3 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 4 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 3 seconds
+
+
+
+----------------------------------------------- COMMONS-COMPRESS_29_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 3
+  - org.apache.commons.compress.archivers.ArchiveStreamFactoryTest::testEncodingInputStream
+  - org.apache.commons.compress.archivers.ArchiveStreamFactoryTest::testEncodingInputStreamAutodetect
+  - org.apache.commons.compress.archivers.ArchiveStreamFactoryTest::testEncodingOutputStream
+Dev tests execution time: 9 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 7 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 7 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 5 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 6 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 6 seconds
+
+
+
+----------------------------------------------- COMMONS-COMPRESS_30_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 1
+  - org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStreamTest::readOfLength0ShouldReturn0
+Dev tests execution time: 10 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 3 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 3 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 4 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 3 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 3 seconds
+
+
+
+----------------------------------------------- COMMONS-COMPRESS_31_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 2
+  - org.apache.commons.compress.archivers.TarTestCase::testCOMPRESS178
+  - org.apache.commons.compress.archivers.tar.TarUtilsTest::testParseOctalInvalid
+Dev tests execution time: 10 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 4 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 3 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 4 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 3 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 4 seconds
+
+
+
+----------------------------------------------- COMMONS-COMPRESS_32_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 1
+  - org.apache.commons.compress.archivers.tar.TarArchiveInputStreamTest::shouldReadBigGid
+Dev tests execution time: 10 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 4 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 4 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 4 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 4 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 4 seconds
+
+
+
+----------------------------------------------- COMMONS-COMPRESS_33_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 1
+  - org.apache.commons.compress.compressors.DetectCompressorTestCase::testDetection
+Dev tests execution time: 10 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 3 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 5 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 4 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 5 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 4 seconds
+
+
+
+----------------------------------------------- COMMONS-COMPRESS_34_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 1
+  - org.apache.commons.compress.archivers.zip.X7875_NewUnixTest::testParseReparse
+Dev tests execution time: 9 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 3 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 3 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 2 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 3 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 4 seconds
+
+
+
+----------------------------------------------- COMMONS-COMPRESS_35_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 1
+  - org.apache.commons.compress.DetectArchiverTestCase::testCOMPRESS335
+Dev tests execution time: 10 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 3 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 4 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 3 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 3 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 4 seconds
+
+
+
+----------------------------------------------- COMMONS-COMPRESS_36_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 1
+  - org.apache.commons.compress.archivers.sevenz.SevenZFileTest::readEntriesOfSize0
+Dev tests execution time: 11 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 2
+  - org.apache.commons.compress.archivers.sevenz.SevenZFile_ESTest::test0
+  - org.apache.commons.compress.archivers.sevenz.SevenZFile_ESTest::test3
+Gen tests execution time: 3 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 4 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 3 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 3 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 3
+  - org.apache.commons.compress.archivers.sevenz.SevenZFile_ESTest::test0
+  - org.apache.commons.compress.archivers.sevenz.SevenZFile_ESTest::test2
+  - org.apache.commons.compress.archivers.sevenz.SevenZFile_ESTest::test3
+Gen tests execution time: 4 seconds
+
+
+
+----------------------------------------------- COMMONS-COMPRESS_37_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 1
+  - org.apache.commons.compress.archivers.tar.TarArchiveInputStreamTest::survivesBlankLinesInPaxHeader
+Dev tests execution time: 9 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 2 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 4 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 3 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 4 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 4 seconds
+
+
+
+----------------------------------------------- COMMONS-COMPRESS_38_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 1
+  - org.apache.commons.compress.archivers.tar.TarArchiveInputStreamTest::survivesPaxHeaderWithNameEndingInSlash
+Dev tests execution time: 10 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 4 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 4 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 3 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 4 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 3 seconds
+
+
+
+----------------------------------------------- COMMONS-COMPRESS_39_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 1
+  - org.apache.commons.compress.ArchiveUtilsTest::sanitizeShortensString
+Dev tests execution time: 9 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 4 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 3 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 4 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 3 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 4 seconds
+
+
+
+----------------------------------------------- COMMONS-COMPRESS_40_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 2
+  - org.apache.commons.compress.utils.BitInputStreamTest::littleEndianWithOverflow
+  - org.apache.commons.compress.utils.BitInputStreamTest::bigEndianWithOverflow
+Dev tests execution time: 9 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 3 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 4 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 3 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 3 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 4 seconds
+
+
+
+----------------------------------------------- COMMONS-COMPRESS_41_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 2
+  - org.apache.commons.compress.archivers.ZipTestCase::testListAllFilesWithNestedArchive
+  - org.apache.commons.compress.archivers.zip.ZipArchiveInputStreamTest::testThrowOnInvalidEntry
+Dev tests execution time: 10 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 4 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 5 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 3 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 5 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 3 seconds
+
+
+
+----------------------------------------------- COMMONS-COMPRESS_42_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 1
+  - org.apache.commons.compress.archivers.zip.ZipArchiveEntryTest::isUnixSymlinkIsFalseIfMoreThanOneFlagIsSet
+Dev tests execution time: 13 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 4 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 4 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 5 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 4 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 4 seconds
+
+
+
+----------------------------------------------- COMMONS-COMPRESS_43_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 1
+  - org.apache.commons.compress.archivers.zip.DataDescriptorTest::doesntWriteDataDescriptorWhenAddingRawEntries
+Dev tests execution time: 25 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 5 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 7 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 7 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 7 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 4 seconds
+
+
+
+----------------------------------------------- COMMONS-COMPRESS_44_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 3
+  - org.apache.commons.compress.utils.ChecksumCalculatingInputStreamTest::testClassInstantiationWithParameterBeingNullThrowsNullPointerExceptionOne
+  - org.apache.commons.compress.utils.ChecksumCalculatingInputStreamTest::testClassInstantiationWithParameterBeingNullThrowsNullPointerExceptionTwo
+  - org.apache.commons.compress.utils.ChecksumCalculatingInputStreamTest::testClassInstantiationWithParameterBeingNullThrowsNullPointerExceptionThree
+Dev tests execution time: 24 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 3 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 4 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 4 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 2 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 3 seconds
+
+
+
+----------------------------------------------- COMMONS-COMPRESS_45_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 1
+  - org.apache.commons.compress.archivers.tar.TarUtilsTest::testRoundTripOctalOrBinary8
+Dev tests execution time: 20 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 4 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 4 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 3 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 4 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 3 seconds
+
+
+
+----------------------------------------------- COMMONS-COMPRESS_46_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 1
+  - org.apache.commons.compress.archivers.zip.X5455_ExtendedTimestampTest::testGettersSetters
+Dev tests execution time: 21 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 5 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 3 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 4 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 4 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 3 seconds
+
+
+
+----------------------------------------------- COMMONS-COMPRESS_47_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 1
+  - org.apache.commons.compress.archivers.zip.ZipArchiveInputStreamTest::properlyMarksEntriesAsUnreadableIfUncompressedSizeIsUnknown
+Dev tests execution time: 20 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 3 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 4 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 4 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 5 seconds
+
+Extract test suite......................................................... OK
+Running ant (compile.gen.tests)............................................ OK
+Running ant (run.gen.tests)................................................ OK
+Failing tests: 0
+Gen tests execution time: 5 seconds
+

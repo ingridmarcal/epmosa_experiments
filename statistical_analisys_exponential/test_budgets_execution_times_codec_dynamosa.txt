@@ -1,0 +1,341 @@
+
+
+----------------------------------------------- COMMONS-CODEC_1_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 5
+  - org.apache.commons.codec.language.CaverphoneTest::testLocaleIndependence
+  - org.apache.commons.codec.language.DoubleMetaphoneTest::testLocaleIndependence
+  - org.apache.commons.codec.language.MetaphoneTest::testLocaleIndependence
+  - org.apache.commons.codec.language.RefinedSoundexTest::testLocaleIndependence
+  - org.apache.commons.codec.language.SoundexTest::testLocaleIndependence
+Dev tests execution time: 2 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Test suite archive not found: ./evosuite_tests_dynamosa/Codec/evosuite/1/Codec-1b-evosuite.1.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dynamosa/Codec/evosuite/2/Codec-1b-evosuite.2.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dynamosa/Codec/evosuite/3/Codec-1b-evosuite.3.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dynamosa/Codec/evosuite/4/Codec-1b-evosuite.4.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dynamosa/Codec/evosuite/5/Codec-1b-evosuite.5.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 1 seconds
+
+
+
+----------------------------------------------- COMMONS-CODEC_2_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 2
+  - org.apache.commons.codec.binary.Base64InputStreamTest::testBase64EmptyInputStream
+  - org.apache.commons.codec.binary.Base64OutputStreamTest::testBase64EmptyOutputStream
+Dev tests execution time: 1 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Test suite archive not found: ./evosuite_tests_dynamosa/Codec/evosuite/1/Codec-2b-evosuite.1.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dynamosa/Codec/evosuite/2/Codec-2b-evosuite.2.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dynamosa/Codec/evosuite/3/Codec-2b-evosuite.3.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dynamosa/Codec/evosuite/4/Codec-2b-evosuite.4.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dynamosa/Codec/evosuite/5/Codec-2b-evosuite.5.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+
+
+----------------------------------------------- COMMONS-CODEC_3_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 1
+  - org.apache.commons.codec.language.DoubleMetaphone2Test::testDoubleMetaphoneAlternate
+Dev tests execution time: 3 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Test suite archive not found: ./evosuite_tests_dynamosa/Codec/evosuite/1/Codec-3b-evosuite.1.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dynamosa/Codec/evosuite/2/Codec-3b-evosuite.2.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dynamosa/Codec/evosuite/3/Codec-3b-evosuite.3.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dynamosa/Codec/evosuite/4/Codec-3b-evosuite.4.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dynamosa/Codec/evosuite/5/Codec-3b-evosuite.5.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+
+
+----------------------------------------------- COMMONS-CODEC_4_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 2
+  - org.apache.commons.codec.binary.Base64Codec13Test::testEncoder
+  - org.apache.commons.codec.binary.Base64Codec13Test::testBinaryEncoder
+Dev tests execution time: 3 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Test suite archive not found: ./evosuite_tests_dynamosa/Codec/evosuite/1/Codec-4b-evosuite.1.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dynamosa/Codec/evosuite/2/Codec-4b-evosuite.2.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dynamosa/Codec/evosuite/3/Codec-4b-evosuite.3.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dynamosa/Codec/evosuite/4/Codec-4b-evosuite.4.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dynamosa/Codec/evosuite/5/Codec-4b-evosuite.5.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+
+
+----------------------------------------------- COMMONS-CODEC_5_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 2
+  - org.apache.commons.codec.binary.Base64InputStreamTest::testCodec98NPE
+  - org.apache.commons.codec.binary.Base64OutputStreamTest::testCodec98NPE
+Dev tests execution time: 3 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Test suite archive not found: ./evosuite_tests_dynamosa/Codec/evosuite/1/Codec-5b-evosuite.1.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dynamosa/Codec/evosuite/2/Codec-5b-evosuite.2.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dynamosa/Codec/evosuite/3/Codec-5b-evosuite.3.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dynamosa/Codec/evosuite/4/Codec-5b-evosuite.4.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dynamosa/Codec/evosuite/5/Codec-5b-evosuite.5.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+
+
+----------------------------------------------- COMMONS-CODEC_6_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 1
+  - org.apache.commons.codec.binary.Base64InputStreamTest::testCodec101
+Dev tests execution time: 2 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Test suite archive not found: ./evosuite_tests_dynamosa/Codec/evosuite/1/Codec-6b-evosuite.1.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dynamosa/Codec/evosuite/2/Codec-6b-evosuite.2.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dynamosa/Codec/evosuite/3/Codec-6b-evosuite.3.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dynamosa/Codec/evosuite/4/Codec-6b-evosuite.4.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dynamosa/Codec/evosuite/5/Codec-6b-evosuite.5.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+
+
+----------------------------------------------- COMMONS-CODEC_7_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 2
+  - org.apache.commons.codec.binary.Base64Test::testByteToStringVariations
+  - org.apache.commons.codec.binary.Base64Test::testRfc4648Section10Encode
+Dev tests execution time: 2 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Test suite archive not found: ./evosuite_tests_dynamosa/Codec/evosuite/1/Codec-7b-evosuite.1.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dynamosa/Codec/evosuite/2/Codec-7b-evosuite.2.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dynamosa/Codec/evosuite/3/Codec-7b-evosuite.3.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dynamosa/Codec/evosuite/4/Codec-7b-evosuite.4.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dynamosa/Codec/evosuite/5/Codec-7b-evosuite.5.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 1 seconds
+
+
+
+----------------------------------------------- COMMONS-CODEC_8_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 1
+  - org.apache.commons.codec.binary.Base64InputStreamTest::testCodec105
+Dev tests execution time: 1 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Test suite archive not found: ./evosuite_tests_dynamosa/Codec/evosuite/1/Codec-8b-evosuite.1.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dynamosa/Codec/evosuite/2/Codec-8b-evosuite.2.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dynamosa/Codec/evosuite/3/Codec-8b-evosuite.3.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 1 seconds
+
+Test suite archive not found: ./evosuite_tests_dynamosa/Codec/evosuite/4/Codec-8b-evosuite.4.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dynamosa/Codec/evosuite/5/Codec-8b-evosuite.5.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+
+
+----------------------------------------------- COMMONS-CODEC_9_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION

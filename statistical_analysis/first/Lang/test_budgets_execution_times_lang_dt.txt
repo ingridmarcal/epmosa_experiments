@@ -1,0 +1,2683 @@
+
+
+----------------------------------------------- LANG_1_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 1
+  - org.apache.commons.lang3.math.NumberUtilsTest::TestLang747
+Dev tests execution time: 22 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/1/Lang-1b-evosuite.1.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/2/Lang-1b-evosuite.2.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/3/Lang-1b-evosuite.3.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/4/Lang-1b-evosuite.4.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/5/Lang-1b-evosuite.5.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+
+
+----------------------------------------------- LANG_2_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 1
+  - org.apache.commons.lang3.math.NumberUtilsTest::TestLang747
+Dev tests execution time: 19 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/1/Lang-2b-evosuite.1.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 1 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/2/Lang-2b-evosuite.2.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/3/Lang-2b-evosuite.3.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/4/Lang-2b-evosuite.4.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/5/Lang-2b-evosuite.5.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+
+
+----------------------------------------------- LANG_3_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 1
+  - org.apache.commons.lang3.math.NumberUtilsTest::testStringCreateNumberEnsureNoPrecisionLoss
+Dev tests execution time: 22 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/1/Lang-3b-evosuite.1.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/2/Lang-3b-evosuite.2.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/3/Lang-3b-evosuite.3.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/4/Lang-3b-evosuite.4.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/5/Lang-3b-evosuite.5.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 1 seconds
+
+
+
+----------------------------------------------- LANG_4_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 1
+  - org.apache.commons.lang3.text.translate.LookupTranslatorTest::testLang882
+Dev tests execution time: 21 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/1/Lang-4b-evosuite.1.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/2/Lang-4b-evosuite.2.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/3/Lang-4b-evosuite.3.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/4/Lang-4b-evosuite.4.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/5/Lang-4b-evosuite.5.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+
+
+----------------------------------------------- LANG_5_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 1
+  - org.apache.commons.lang3.LocaleUtilsTest::testLang865
+Dev tests execution time: 25 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/1/Lang-5b-evosuite.1.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/2/Lang-5b-evosuite.2.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 1 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/3/Lang-5b-evosuite.3.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/4/Lang-5b-evosuite.4.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/5/Lang-5b-evosuite.5.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+
+
+----------------------------------------------- LANG_6_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 1
+  - org.apache.commons.lang3.StringUtilsTest::testEscapeSurrogatePairs
+Dev tests execution time: 19 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/1/Lang-6b-evosuite.1.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/2/Lang-6b-evosuite.2.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/3/Lang-6b-evosuite.3.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 1 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/4/Lang-6b-evosuite.4.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/5/Lang-6b-evosuite.5.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+
+
+----------------------------------------------- LANG_7_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 1
+  - org.apache.commons.lang3.math.NumberUtilsTest::testCreateNumber
+Dev tests execution time: 31 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/1/Lang-7b-evosuite.1.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/2/Lang-7b-evosuite.2.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/3/Lang-7b-evosuite.3.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/4/Lang-7b-evosuite.4.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/5/Lang-7b-evosuite.5.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+
+
+----------------------------------------------- LANG_8_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 2
+  - org.apache.commons.lang3.time.FastDateFormat_PrinterTest::testCalendarTimezoneRespected
+  - org.apache.commons.lang3.time.FastDatePrinterTest::testCalendarTimezoneRespected
+Dev tests execution time: 23 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/1/Lang-8b-evosuite.1.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/2/Lang-8b-evosuite.2.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/3/Lang-8b-evosuite.3.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/4/Lang-8b-evosuite.4.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/5/Lang-8b-evosuite.5.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+
+
+----------------------------------------------- LANG_9_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 2
+  - org.apache.commons.lang3.time.FastDateFormat_ParserTest::testLANG_832
+  - org.apache.commons.lang3.time.FastDateParserTest::testLANG_832
+Dev tests execution time: 17 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/1/Lang-9b-evosuite.1.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/2/Lang-9b-evosuite.2.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/3/Lang-9b-evosuite.3.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/4/Lang-9b-evosuite.4.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/5/Lang-9b-evosuite.5.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 1 seconds
+
+
+
+----------------------------------------------- LANG_10_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 2
+  - org.apache.commons.lang3.time.FastDateFormat_ParserTest::testLANG_831
+  - org.apache.commons.lang3.time.FastDateParserTest::testLANG_831
+Dev tests execution time: 19 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/1/Lang-10b-evosuite.1.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/2/Lang-10b-evosuite.2.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/3/Lang-10b-evosuite.3.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 1 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/4/Lang-10b-evosuite.4.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/5/Lang-10b-evosuite.5.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+
+
+----------------------------------------------- LANG_11_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 1
+  - org.apache.commons.lang3.RandomStringUtilsTest::testLANG807
+Dev tests execution time: 17 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/1/Lang-11b-evosuite.1.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/2/Lang-11b-evosuite.2.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 1 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/3/Lang-11b-evosuite.3.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/4/Lang-11b-evosuite.4.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/5/Lang-11b-evosuite.5.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+
+
+----------------------------------------------- LANG_12_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 2
+  - org.apache.commons.lang3.RandomStringUtilsTest::testExceptions
+  - org.apache.commons.lang3.RandomStringUtilsTest::testLANG805
+Dev tests execution time: 21 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/1/Lang-12b-evosuite.1.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/2/Lang-12b-evosuite.2.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/3/Lang-12b-evosuite.3.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/4/Lang-12b-evosuite.4.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/5/Lang-12b-evosuite.5.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 1 seconds
+
+
+
+----------------------------------------------- LANG_13_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 1
+  - org.apache.commons.lang3.SerializationUtilsTest::testPrimitiveTypeClassSerialization
+Dev tests execution time: 17 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/1/Lang-13b-evosuite.1.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 1 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/2/Lang-13b-evosuite.2.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/3/Lang-13b-evosuite.3.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/4/Lang-13b-evosuite.4.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/5/Lang-13b-evosuite.5.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+
+
+----------------------------------------------- LANG_14_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 1
+  - org.apache.commons.lang3.StringUtilsEqualsIndexOfTest::testEquals
+Dev tests execution time: 15 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/1/Lang-14b-evosuite.1.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/2/Lang-14b-evosuite.2.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/3/Lang-14b-evosuite.3.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/4/Lang-14b-evosuite.4.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/5/Lang-14b-evosuite.5.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 1 seconds
+
+
+
+----------------------------------------------- LANG_15_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 2
+  - org.apache.commons.lang3.reflect.TypeUtilsTest::testGetTypeArguments
+  - org.apache.commons.lang3.reflect.TypeUtilsTest::testIsAssignable
+Dev tests execution time: 14 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/1/Lang-15b-evosuite.1.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/2/Lang-15b-evosuite.2.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/3/Lang-15b-evosuite.3.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/4/Lang-15b-evosuite.4.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 1 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/5/Lang-15b-evosuite.5.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+
+
+----------------------------------------------- LANG_16_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 1
+  - org.apache.commons.lang3.math.NumberUtilsTest::testCreateNumber
+Dev tests execution time: 14 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/1/Lang-16b-evosuite.1.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/2/Lang-16b-evosuite.2.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/3/Lang-16b-evosuite.3.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/4/Lang-16b-evosuite.4.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/5/Lang-16b-evosuite.5.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+
+
+----------------------------------------------- LANG_17_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 1
+  - org.apache.commons.lang3.StringEscapeUtilsTest::testLang720
+Dev tests execution time: 11 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/1/Lang-17b-evosuite.1.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/2/Lang-17b-evosuite.2.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 1 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/3/Lang-17b-evosuite.3.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/4/Lang-17b-evosuite.4.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/5/Lang-17b-evosuite.5.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+
+
+----------------------------------------------- LANG_18_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 1
+  - org.apache.commons.lang3.time.FastDateFormatTest::testFormat
+Dev tests execution time: 11 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/1/Lang-18b-evosuite.1.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/2/Lang-18b-evosuite.2.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/3/Lang-18b-evosuite.3.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/4/Lang-18b-evosuite.4.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/5/Lang-18b-evosuite.5.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+
+
+----------------------------------------------- LANG_19_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 2
+  - org.apache.commons.lang3.text.translate.NumericEntityUnescaperTest::testUnfinishedEntity
+  - org.apache.commons.lang3.text.translate.NumericEntityUnescaperTest::testOutOfBounds
+Dev tests execution time: 12 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/1/Lang-19b-evosuite.1.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/2/Lang-19b-evosuite.2.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/3/Lang-19b-evosuite.3.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 1 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/4/Lang-19b-evosuite.4.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/5/Lang-19b-evosuite.5.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+
+
+----------------------------------------------- LANG_20_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 2
+  - org.apache.commons.lang3.StringUtilsTest::testJoin_ArrayChar
+  - org.apache.commons.lang3.StringUtilsTest::testJoin_Objectarray
+Dev tests execution time: 12 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/1/Lang-20b-evosuite.1.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/2/Lang-20b-evosuite.2.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/3/Lang-20b-evosuite.3.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/4/Lang-20b-evosuite.4.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/5/Lang-20b-evosuite.5.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+
+
+----------------------------------------------- LANG_21_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 1
+  - org.apache.commons.lang3.time.DateUtilsTest::testIsSameLocalTime_Cal
+Dev tests execution time: 10 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/1/Lang-21b-evosuite.1.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/2/Lang-21b-evosuite.2.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/3/Lang-21b-evosuite.3.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/4/Lang-21b-evosuite.4.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/5/Lang-21b-evosuite.5.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+
+
+----------------------------------------------- LANG_22_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 2
+  - org.apache.commons.lang3.math.FractionTest::testReducedFactory_int_int
+  - org.apache.commons.lang3.math.FractionTest::testReduce
+Dev tests execution time: 10 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/1/Lang-22b-evosuite.1.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/2/Lang-22b-evosuite.2.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/3/Lang-22b-evosuite.3.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 1 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/4/Lang-22b-evosuite.4.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/5/Lang-22b-evosuite.5.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+
+
+----------------------------------------------- LANG_23_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 1
+  - org.apache.commons.lang3.text.ExtendedMessageFormatTest::testEqualsHashcode
+Dev tests execution time: 11 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/1/Lang-23b-evosuite.1.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/2/Lang-23b-evosuite.2.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/3/Lang-23b-evosuite.3.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/4/Lang-23b-evosuite.4.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/5/Lang-23b-evosuite.5.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 1 seconds
+
+
+
+----------------------------------------------- LANG_24_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 1
+  - org.apache.commons.lang3.math.NumberUtilsTest::testIsNumber
+Dev tests execution time: 12 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/1/Lang-24b-evosuite.1.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/2/Lang-24b-evosuite.2.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/3/Lang-24b-evosuite.3.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/4/Lang-24b-evosuite.4.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/5/Lang-24b-evosuite.5.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+
+
+----------------------------------------------- LANG_25_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 1
+  - org.apache.commons.lang3.text.translate.EntityArraysTest::testISO8859_1_ESCAPE
+Dev tests execution time: 11 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/1/Lang-25b-evosuite.1.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/2/Lang-25b-evosuite.2.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/3/Lang-25b-evosuite.3.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 1 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/4/Lang-25b-evosuite.4.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/5/Lang-25b-evosuite.5.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+
+
+----------------------------------------------- LANG_26_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 1
+  - org.apache.commons.lang3.time.FastDateFormatTest::testLang645
+Dev tests execution time: 11 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/1/Lang-26b-evosuite.1.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/2/Lang-26b-evosuite.2.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/3/Lang-26b-evosuite.3.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/4/Lang-26b-evosuite.4.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/5/Lang-26b-evosuite.5.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+
+
+----------------------------------------------- LANG_27_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 1
+  - org.apache.commons.lang3.math.NumberUtilsTest::testCreateNumber
+Dev tests execution time: 11 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/1/Lang-27b-evosuite.1.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/2/Lang-27b-evosuite.2.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/3/Lang-27b-evosuite.3.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 1 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/4/Lang-27b-evosuite.4.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/5/Lang-27b-evosuite.5.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+
+
+----------------------------------------------- LANG_28_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 1
+  - org.apache.commons.lang3.text.translate.NumericEntityUnescaperTest::testSupplementaryUnescaping
+Dev tests execution time: 11 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/1/Lang-28b-evosuite.1.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/2/Lang-28b-evosuite.2.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/3/Lang-28b-evosuite.3.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/4/Lang-28b-evosuite.4.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/5/Lang-28b-evosuite.5.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+
+
+----------------------------------------------- LANG_29_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 1
+  - org.apache.commons.lang3.SystemUtilsTest::testJavaVersionAsInt
+Dev tests execution time: 11 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/1/Lang-29b-evosuite.1.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/2/Lang-29b-evosuite.2.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/3/Lang-29b-evosuite.3.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/4/Lang-29b-evosuite.4.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/5/Lang-29b-evosuite.5.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+
+
+----------------------------------------------- LANG_30_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 10
+  - org.apache.commons.lang3.StringUtilsEqualsIndexOfTest::testContainsNone_CharArrayWithSupplementaryChars
+  - org.apache.commons.lang3.StringUtilsEqualsIndexOfTest::testContainsNone_StringWithSupplementaryChars
+  - org.apache.commons.lang3.StringUtilsEqualsIndexOfTest::testContainsAny_StringCharArrayWithBadSupplementaryChars
+  - org.apache.commons.lang3.StringUtilsEqualsIndexOfTest::testIndexOfAnyBut_StringStringWithSupplementaryChars
+  - org.apache.commons.lang3.StringUtilsEqualsIndexOfTest::testContainsAny_StringWithBadSupplementaryChars
+  - org.apache.commons.lang3.StringUtilsEqualsIndexOfTest::testIndexOfAny_StringCharArrayWithSupplementaryChars
+  - org.apache.commons.lang3.StringUtilsEqualsIndexOfTest::testIndexOfAnyBut_StringCharArrayWithSupplementaryChars
+  - org.apache.commons.lang3.StringUtilsEqualsIndexOfTest::testContainsNone_StringWithBadSupplementaryChars
+  - org.apache.commons.lang3.StringUtilsEqualsIndexOfTest::testIndexOfAny_StringStringWithSupplementaryChars
+  - org.apache.commons.lang3.StringUtilsEqualsIndexOfTest::testContainsNone_CharArrayWithBadSupplementaryChars
+Dev tests execution time: 11 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/1/Lang-30b-evosuite.1.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/2/Lang-30b-evosuite.2.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/3/Lang-30b-evosuite.3.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/4/Lang-30b-evosuite.4.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/5/Lang-30b-evosuite.5.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+
+
+----------------------------------------------- LANG_31_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 2
+  - org.apache.commons.lang3.StringUtilsEqualsIndexOfTest::testContainsAnyCharArrayWithSupplementaryChars
+  - org.apache.commons.lang3.StringUtilsEqualsIndexOfTest::testContainsAnyStringWithSupplementaryChars
+Dev tests execution time: 11 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/1/Lang-31b-evosuite.1.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/2/Lang-31b-evosuite.2.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/3/Lang-31b-evosuite.3.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/4/Lang-31b-evosuite.4.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/5/Lang-31b-evosuite.5.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+
+
+----------------------------------------------- LANG_32_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 1
+  - org.apache.commons.lang3.builder.HashCodeBuilderTest::testReflectionObjectCycle
+Dev tests execution time: 12 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/1/Lang-32b-evosuite.1.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/2/Lang-32b-evosuite.2.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/3/Lang-32b-evosuite.3.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/4/Lang-32b-evosuite.4.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/5/Lang-32b-evosuite.5.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+
+
+----------------------------------------------- LANG_33_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 1
+  - org.apache.commons.lang3.ClassUtilsTest::testToClass_object
+Dev tests execution time: 12 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/1/Lang-33b-evosuite.1.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/2/Lang-33b-evosuite.2.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/3/Lang-33b-evosuite.3.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/4/Lang-33b-evosuite.4.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/5/Lang-33b-evosuite.5.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 1 seconds
+
+
+
+----------------------------------------------- LANG_34_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 27
+  - org.apache.commons.lang3.builder.ToStringBuilderTest::testObjectCycle
+  - org.apache.commons.lang3.builder.ToStringBuilderTest::testReflectionHierarchy
+  - org.apache.commons.lang3.builder.ToStringBuilderTest::testSelfInstanceTwoVarsReflectionObjectCycle
+  - org.apache.commons.lang3.builder.ToStringBuilderTest::testReflectionArrayCycle
+  - org.apache.commons.lang3.builder.ToStringBuilderTest::testReflectionLongArrayArray
+  - org.apache.commons.lang3.builder.ToStringBuilderTest::testReflectionArrayArrayCycle
+  - org.apache.commons.lang3.builder.ToStringBuilderTest::testReflectionFloatArray
+  - org.apache.commons.lang3.builder.ToStringBuilderTest::testReflectionDoubleArrayArray
+  - org.apache.commons.lang3.builder.ToStringBuilderTest::testReflectionBooleanArray
+  - org.apache.commons.lang3.builder.ToStringBuilderTest::testReflectionyteArray
+  - org.apache.commons.lang3.builder.ToStringBuilderTest::testReflectionDoubleArray
+  - org.apache.commons.lang3.builder.ToStringBuilderTest::testReflectionIntArrayArray
+  - org.apache.commons.lang3.builder.ToStringBuilderTest::testReflectionLongArray
+  - org.apache.commons.lang3.builder.ToStringBuilderTest::testReflectionhortArrayArray
+  - org.apache.commons.lang3.builder.ToStringBuilderTest::testReflectionObjectArray
+  - org.apache.commons.lang3.builder.ToStringBuilderTest::testReflectionObjectCycle
+  - org.apache.commons.lang3.builder.ToStringBuilderTest::testReflectionBooleanArrayArray
+  - org.apache.commons.lang3.builder.ToStringBuilderTest::testSimpleReflectionObjectCycle
+  - org.apache.commons.lang3.builder.ToStringBuilderTest::testReflectionByteArrayArray
+  - org.apache.commons.lang3.builder.ToStringBuilderTest::testReflectionArrayCycleLevel2
+  - org.apache.commons.lang3.builder.ToStringBuilderTest::testReflectionArrayAndObjectCycle
+  - org.apache.commons.lang3.builder.ToStringBuilderTest::testReflectionCharArrayArray
+  - org.apache.commons.lang3.builder.ToStringBuilderTest::testReflectionShortArray
+  - org.apache.commons.lang3.builder.ToStringBuilderTest::testSelfInstanceVarReflectionObjectCycle
+  - org.apache.commons.lang3.builder.ToStringBuilderTest::testReflectionIntArray
+  - org.apache.commons.lang3.builder.ToStringBuilderTest::testReflectionCharArray
+  - org.apache.commons.lang3.builder.ToStringBuilderTest::testReflectionFloatArrayArray
+Dev tests execution time: 10 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/1/Lang-34b-evosuite.1.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/2/Lang-34b-evosuite.2.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/3/Lang-34b-evosuite.3.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/4/Lang-34b-evosuite.4.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/5/Lang-34b-evosuite.5.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+
+
+----------------------------------------------- LANG_35_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 1
+  - org.apache.commons.lang3.ArrayUtilsAddTest::testLANG571
+Dev tests execution time: 11 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/1/Lang-35b-evosuite.1.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/2/Lang-35b-evosuite.2.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/3/Lang-35b-evosuite.3.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/4/Lang-35b-evosuite.4.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/5/Lang-35b-evosuite.5.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+
+
+----------------------------------------------- LANG_36_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 2
+  - org.apache.commons.lang3.math.NumberUtilsTest::testCreateNumber
+  - org.apache.commons.lang3.math.NumberUtilsTest::testIsNumber
+Dev tests execution time: 12 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/1/Lang-36b-evosuite.1.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/2/Lang-36b-evosuite.2.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/3/Lang-36b-evosuite.3.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/4/Lang-36b-evosuite.4.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/5/Lang-36b-evosuite.5.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+
+
+----------------------------------------------- LANG_37_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 1
+  - org.apache.commons.lang3.ArrayUtilsAddTest::testJira567
+Dev tests execution time: 12 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/1/Lang-37b-evosuite.1.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/2/Lang-37b-evosuite.2.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 1 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/3/Lang-37b-evosuite.3.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/4/Lang-37b-evosuite.4.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/5/Lang-37b-evosuite.5.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+
+
+----------------------------------------------- LANG_38_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 1
+  - org.apache.commons.lang3.time.FastDateFormatTest::testLang538
+Dev tests execution time: 11 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/1/Lang-38b-evosuite.1.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 1 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/2/Lang-38b-evosuite.2.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/3/Lang-38b-evosuite.3.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/4/Lang-38b-evosuite.4.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/5/Lang-38b-evosuite.5.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+
+
+----------------------------------------------- LANG_39_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 1
+  - org.apache.commons.lang3.StringUtilsTest::testReplace_StringStringArrayStringArray
+Dev tests execution time: 10 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/1/Lang-39b-evosuite.1.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/2/Lang-39b-evosuite.2.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/3/Lang-39b-evosuite.3.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/4/Lang-39b-evosuite.4.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/5/Lang-39b-evosuite.5.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 1 seconds
+
+
+
+----------------------------------------------- LANG_40_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 1
+  - org.apache.commons.lang.StringUtilsEqualsIndexOfTest::testContainsIgnoreCase_LocaleIndependence
+Dev tests execution time: 10 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/1/Lang-40b-evosuite.1.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/2/Lang-40b-evosuite.2.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/3/Lang-40b-evosuite.3.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/4/Lang-40b-evosuite.4.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/5/Lang-40b-evosuite.5.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+
+
+----------------------------------------------- LANG_41_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 2
+  - org.apache.commons.lang.ClassUtilsTest::test_getShortClassName_Class
+  - org.apache.commons.lang.ClassUtilsTest::test_getPackageName_Class
+Dev tests execution time: 12 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/1/Lang-41b-evosuite.1.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/2/Lang-41b-evosuite.2.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/3/Lang-41b-evosuite.3.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/4/Lang-41b-evosuite.4.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/5/Lang-41b-evosuite.5.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 1 seconds
+
+
+
+----------------------------------------------- LANG_42_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 1
+  - org.apache.commons.lang.StringEscapeUtilsTest::testEscapeHtmlHighUnicode
+Dev tests execution time: 16 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/1/Lang-42b-evosuite.1.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/2/Lang-42b-evosuite.2.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/3/Lang-42b-evosuite.3.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/4/Lang-42b-evosuite.4.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/5/Lang-42b-evosuite.5.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+
+
+----------------------------------------------- LANG_43_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 1
+  - org.apache.commons.lang.text.ExtendedMessageFormatTest::testEscapedQuote_LANG_477
+Dev tests execution time: 37 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/1/Lang-43b-evosuite.1.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/2/Lang-43b-evosuite.2.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/3/Lang-43b-evosuite.3.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/4/Lang-43b-evosuite.4.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/5/Lang-43b-evosuite.5.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+
+
+----------------------------------------------- LANG_44_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 1
+  - org.apache.commons.lang.NumberUtilsTest::testLang457
+Dev tests execution time: 13 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/1/Lang-44b-evosuite.1.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/2/Lang-44b-evosuite.2.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/3/Lang-44b-evosuite.3.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/4/Lang-44b-evosuite.4.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/5/Lang-44b-evosuite.5.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+
+
+----------------------------------------------- LANG_45_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 1
+  - org.apache.commons.lang.WordUtilsTest::testAbbreviate
+Dev tests execution time: 14 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/1/Lang-45b-evosuite.1.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/2/Lang-45b-evosuite.2.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/3/Lang-45b-evosuite.3.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/4/Lang-45b-evosuite.4.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/5/Lang-45b-evosuite.5.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 1 seconds
+
+
+
+----------------------------------------------- LANG_46_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 1
+  - org.apache.commons.lang.StringEscapeUtilsTest::testEscapeJavaWithSlash
+Dev tests execution time: 12 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/1/Lang-46b-evosuite.1.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/2/Lang-46b-evosuite.2.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 1 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/3/Lang-46b-evosuite.3.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/4/Lang-46b-evosuite.4.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/5/Lang-46b-evosuite.5.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+
+
+----------------------------------------------- LANG_47_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 2
+  - org.apache.commons.lang.text.StrBuilderTest::testLang412Left
+  - org.apache.commons.lang.text.StrBuilderTest::testLang412Right
+Dev tests execution time: 11 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/1/Lang-47b-evosuite.1.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/2/Lang-47b-evosuite.2.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/3/Lang-47b-evosuite.3.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/4/Lang-47b-evosuite.4.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/5/Lang-47b-evosuite.5.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+
+
+----------------------------------------------- LANG_48_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 1
+  - org.apache.commons.lang.builder.EqualsBuilderTest::testBigDecimal
+Dev tests execution time: 12 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/1/Lang-48b-evosuite.1.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/2/Lang-48b-evosuite.2.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/3/Lang-48b-evosuite.3.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/4/Lang-48b-evosuite.4.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/5/Lang-48b-evosuite.5.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+
+
+----------------------------------------------- LANG_49_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 1
+  - org.apache.commons.lang.math.FractionTest::testReduce
+Dev tests execution time: 16 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/1/Lang-49b-evosuite.1.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/2/Lang-49b-evosuite.2.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/3/Lang-49b-evosuite.3.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/4/Lang-49b-evosuite.4.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/5/Lang-49b-evosuite.5.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+
+
+----------------------------------------------- LANG_50_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 2
+  - org.apache.commons.lang.time.FastDateFormatTest::test_changeDefault_Locale_DateInstance
+  - org.apache.commons.lang.time.FastDateFormatTest::test_changeDefault_Locale_DateTimeInstance
+Dev tests execution time: 12 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/1/Lang-50b-evosuite.1.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/2/Lang-50b-evosuite.2.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/3/Lang-50b-evosuite.3.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/4/Lang-50b-evosuite.4.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/5/Lang-50b-evosuite.5.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+
+
+----------------------------------------------- LANG_51_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 1
+  - org.apache.commons.lang.BooleanUtilsTest::test_toBoolean_String
+Dev tests execution time: 12 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/1/Lang-51b-evosuite.1.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/2/Lang-51b-evosuite.2.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 1 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/3/Lang-51b-evosuite.3.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/4/Lang-51b-evosuite.4.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/5/Lang-51b-evosuite.5.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+
+
+----------------------------------------------- LANG_52_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 1
+  - org.apache.commons.lang.StringEscapeUtilsTest::testEscapeJavaScript
+Dev tests execution time: 20 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/1/Lang-52b-evosuite.1.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/2/Lang-52b-evosuite.2.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/3/Lang-52b-evosuite.3.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/4/Lang-52b-evosuite.4.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/5/Lang-52b-evosuite.5.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+
+
+----------------------------------------------- LANG_53_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 1
+  - org.apache.commons.lang.time.DateUtilsTest::testRoundLang346
+Dev tests execution time: 12 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/1/Lang-53b-evosuite.1.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/2/Lang-53b-evosuite.2.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/3/Lang-53b-evosuite.3.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/4/Lang-53b-evosuite.4.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/5/Lang-53b-evosuite.5.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 1 seconds
+
+
+
+----------------------------------------------- LANG_54_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 1
+  - org.apache.commons.lang.LocaleUtilsTest::testLang328
+Dev tests execution time: 11 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/1/Lang-54b-evosuite.1.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 1 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/2/Lang-54b-evosuite.2.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/3/Lang-54b-evosuite.3.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/4/Lang-54b-evosuite.4.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/5/Lang-54b-evosuite.5.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+
+
+----------------------------------------------- LANG_55_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 1
+  - org.apache.commons.lang.time.StopWatchTest::testLang315
+Dev tests execution time: 12 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/1/Lang-55b-evosuite.1.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/2/Lang-55b-evosuite.2.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/3/Lang-55b-evosuite.3.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/4/Lang-55b-evosuite.4.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/5/Lang-55b-evosuite.5.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+
+
+----------------------------------------------- LANG_56_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 1
+  - org.apache.commons.lang.time.FastDateFormatTest::testLang303
+Dev tests execution time: 14 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/1/Lang-56b-evosuite.1.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/2/Lang-56b-evosuite.2.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/3/Lang-56b-evosuite.3.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/4/Lang-56b-evosuite.4.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/5/Lang-56b-evosuite.5.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+
+
+----------------------------------------------- LANG_57_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 11
+  - org.apache.commons.lang.LocaleUtilsTest::testAvailableLocaleSet
+  - org.apache.commons.lang.LocaleUtilsTest::testIsAvailableLocale
+  - org.apache.commons.lang.LocaleUtilsTest::testAvailableLocaleList
+  - org.apache.commons.lang.LocaleUtilsTest::testCountriesByLanguage
+  - org.apache.commons.lang.LocaleUtilsTest::testLocaleLookupList_LocaleLocale
+  - org.apache.commons.lang.LocaleUtilsTest::testLanguagesByCountry
+  - org.apache.commons.lang.LocaleUtilsTest::testToLocale_1Part
+  - org.apache.commons.lang.LocaleUtilsTest::testToLocale_2Part
+  - org.apache.commons.lang.LocaleUtilsTest::testToLocale_3Part
+  - org.apache.commons.lang.LocaleUtilsTest::testLocaleLookupList_Locale
+  - org.apache.commons.lang.LocaleUtilsTest::testConstructor
+Dev tests execution time: 11 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/1/Lang-57b-evosuite.1.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/2/Lang-57b-evosuite.2.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/3/Lang-57b-evosuite.3.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 1 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/4/Lang-57b-evosuite.4.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/5/Lang-57b-evosuite.5.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+
+
+----------------------------------------------- LANG_58_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 1
+  - org.apache.commons.lang.math.NumberUtilsTest::testLang300
+Dev tests execution time: 13 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/1/Lang-58b-evosuite.1.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/2/Lang-58b-evosuite.2.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/3/Lang-58b-evosuite.3.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/4/Lang-58b-evosuite.4.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/5/Lang-58b-evosuite.5.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+
+
+----------------------------------------------- LANG_59_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 1
+  - org.apache.commons.lang.text.StrBuilderAppendInsertTest::testLang299
+Dev tests execution time: 11 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/1/Lang-59b-evosuite.1.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/2/Lang-59b-evosuite.2.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/3/Lang-59b-evosuite.3.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/4/Lang-59b-evosuite.4.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/5/Lang-59b-evosuite.5.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+
+
+----------------------------------------------- LANG_60_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 1
+  - org.apache.commons.lang.text.StrBuilderTest::testLang295
+Dev tests execution time: 11 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/1/Lang-60b-evosuite.1.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/2/Lang-60b-evosuite.2.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/3/Lang-60b-evosuite.3.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/4/Lang-60b-evosuite.4.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/5/Lang-60b-evosuite.5.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+
+
+----------------------------------------------- LANG_61_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 2
+  - org.apache.commons.lang.text.StrBuilderTest::testIndexOfLang294
+  - org.apache.commons.lang.text.StrBuilderTest::testLang294
+Dev tests execution time: 13 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/1/Lang-61b-evosuite.1.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/2/Lang-61b-evosuite.2.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/3/Lang-61b-evosuite.3.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/4/Lang-61b-evosuite.4.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/5/Lang-61b-evosuite.5.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+
+
+----------------------------------------------- LANG_62_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 1
+  - org.apache.commons.lang.EntitiesTest::testNumberOverflow
+Dev tests execution time: 13 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/1/Lang-62b-evosuite.1.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/2/Lang-62b-evosuite.2.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/3/Lang-62b-evosuite.3.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/4/Lang-62b-evosuite.4.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/5/Lang-62b-evosuite.5.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+
+
+----------------------------------------------- LANG_63_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 1
+  - org.apache.commons.lang.time.DurationFormatUtilsTest::testJiraLang281
+Dev tests execution time: 11 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/1/Lang-63b-evosuite.1.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/2/Lang-63b-evosuite.2.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/3/Lang-63b-evosuite.3.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/4/Lang-63b-evosuite.4.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/5/Lang-63b-evosuite.5.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+
+
+----------------------------------------------- LANG_64_BUGGY -----------------------------------------------
+
+##### DEV TESTS EXECUTION
+
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 1
+  - org.apache.commons.lang.enums.ValuedEnumTest::testCompareTo_otherEnumType
+Dev tests execution time: 12 seconds
+
+
+##### GEN TESTS EXECUTION
+
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/1/Lang-64b-evosuite.1.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/2/Lang-64b-evosuite.2.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/3/Lang-64b-evosuite.3.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/4/Lang-64b-evosuite.4.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+
+Test suite archive not found: ./evosuite_tests_dt/Lang/evosuite/5/Lang-64b-evosuite.5.tar.bz2
+Died at /home/ingridmarcal/Documents/defects4j/framework/bin/d4j/d4j-test line 125.
+Compilation failed in require at /home/ingridmarcal/Documents/defects4j/framework/bin/defects4j line 195.
+Gen tests execution time: 0 seconds
+

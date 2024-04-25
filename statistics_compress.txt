@@ -1,0 +1,188 @@
+----------------------------------------------- COMMONS-COMPRESS_1_BUGGY VERSION: 1 ----------------------------------
+Total Commits: 266
+Total Lines of Code: 35270
+Test generation time: 0 seconds
+----------------------------------------------- COMMONS-COMPRESS_2_BUGGY VERSION: 1 ----------------------------------
+Total Commits: 346
+Total Lines of Code: 41272
+Test generation time: 0 seconds
+----------------------------------------------- COMMONS-COMPRESS_3_BUGGY VERSION: 1 ----------------------------------
+Total Commits: 476
+Total Lines of Code: 44786
+Test generation time: 0 seconds
+----------------------------------------------- COMMONS-COMPRESS_4_BUGGY VERSION: 1 ----------------------------------
+Total Commits: 477
+Total Lines of Code: 44814
+Test generation time: 0 seconds
+----------------------------------------------- COMMONS-COMPRESS_5_BUGGY VERSION: 1 ----------------------------------
+Total Commits: 547
+Total Lines of Code: 48696
+Test generation time: 0 seconds
+----------------------------------------------- COMMONS-COMPRESS_6_BUGGY VERSION: 1 ----------------------------------
+Total Commits: 552
+Total Lines of Code: 49106
+Test generation time: 0 seconds
+----------------------------------------------- COMMONS-COMPRESS_7_BUGGY VERSION: 1 ----------------------------------
+Total Commits: 660
+Total Lines of Code: 58146
+Test generation time: 0 seconds
+----------------------------------------------- COMMONS-COMPRESS_8_BUGGY VERSION: 1 ----------------------------------
+Total Commits: 671
+Total Lines of Code: 58522
+Test generation time: 0 seconds
+----------------------------------------------- COMMONS-COMPRESS_9_BUGGY VERSION: 1 ----------------------------------
+Total Commits: 900
+Total Lines of Code: 100022
+Test generation time: 0 seconds
+----------------------------------------------- COMMONS-COMPRESS_10_BUGGY VERSION: 1 ----------------------------------
+Total Commits: 949
+Total Lines of Code: 103376
+Test generation time: 0 seconds
+----------------------------------------------- COMMONS-COMPRESS_11_BUGGY VERSION: 1 ----------------------------------
+Total Commits: 959
+Total Lines of Code: 104892
+Test generation time: 0 seconds
+----------------------------------------------- COMMONS-COMPRESS_12_BUGGY VERSION: 1 ----------------------------------
+Total Commits: 970
+Total Lines of Code: 105042
+Test generation time: 0 seconds
+----------------------------------------------- COMMONS-COMPRESS_13_BUGGY VERSION: 1 ----------------------------------
+Total Commits: 974
+Total Lines of Code: 105264
+Test generation time: 0 seconds
+----------------------------------------------- COMMONS-COMPRESS_14_BUGGY VERSION: 1 ----------------------------------
+Total Commits: 976
+Total Lines of Code: 105328
+Test generation time: 0 seconds
+----------------------------------------------- COMMONS-COMPRESS_15_BUGGY VERSION: 1 ----------------------------------
+Total Commits: 1061
+Total Lines of Code: 109464
+Test generation time: 0 seconds
+----------------------------------------------- COMMONS-COMPRESS_16_BUGGY VERSION: 1 ----------------------------------
+Total Commits: 1068
+Total Lines of Code: 109920
+Test generation time: 0 seconds
+----------------------------------------------- COMMONS-COMPRESS_17_BUGGY VERSION: 1 ----------------------------------
+Total Commits: 1078
+Total Lines of Code: 110716
+Test generation time: 0 seconds
+----------------------------------------------- COMMONS-COMPRESS_18_BUGGY VERSION: 1 ----------------------------------
+Total Commits: 1091
+Total Lines of Code: 111084
+Test generation time: 0 seconds
+----------------------------------------------- COMMONS-COMPRESS_19_BUGGY VERSION: 1 ----------------------------------
+Total Commits: 1215
+Total Lines of Code: 124982
+Test generation time: 0 seconds
+----------------------------------------------- COMMONS-COMPRESS_20_BUGGY VERSION: 1 ----------------------------------
+Total Commits: 1248
+Total Lines of Code: 126108
+Test generation time: 0 seconds
+----------------------------------------------- COMMONS-COMPRESS_21_BUGGY VERSION: 1 ----------------------------------
+Total Commits: 1387
+Total Lines of Code: 140614
+Test generation time: 0 seconds
+----------------------------------------------- COMMONS-COMPRESS_22_BUGGY VERSION: 1 ----------------------------------
+Total Commits: 1442
+Total Lines of Code: 147734
+Test generation time: 0 seconds
+----------------------------------------------- COMMONS-COMPRESS_23_BUGGY VERSION: 1 ----------------------------------
+Total Commits: 1443
+Total Lines of Code: 179058
+Test generation time: 1 seconds
+----------------------------------------------- COMMONS-COMPRESS_24_BUGGY VERSION: 1 ----------------------------------
+Total Commits: 1448
+Total Lines of Code: 179224
+Test generation time: 0 seconds
+----------------------------------------------- COMMONS-COMPRESS_25_BUGGY VERSION: 1 ----------------------------------
+Total Commits: 1450
+Total Lines of Code: 179304
+Test generation time: 0 seconds
+----------------------------------------------- COMMONS-COMPRESS_26_BUGGY VERSION: 1 ----------------------------------
+Total Commits: 1517
+Total Lines of Code: 182104
+Test generation time: 0 seconds
+----------------------------------------------- COMMONS-COMPRESS_27_BUGGY VERSION: 1 ----------------------------------
+Total Commits: 1527
+Total Lines of Code: 183178
+Test generation time: 0 seconds
+----------------------------------------------- COMMONS-COMPRESS_28_BUGGY VERSION: 1 ----------------------------------
+Total Commits: 1528
+Total Lines of Code: 183022
+Test generation time: 0 seconds
+----------------------------------------------- COMMONS-COMPRESS_29_BUGGY VERSION: 1 ----------------------------------
+Total Commits: 1715
+Total Lines of Code: 193286
+Test generation time: 0 seconds
+----------------------------------------------- COMMONS-COMPRESS_30_BUGGY VERSION: 1 ----------------------------------
+Total Commits: 1724
+Total Lines of Code: 194710
+Test generation time: 0 seconds
+----------------------------------------------- COMMONS-COMPRESS_31_BUGGY VERSION: 1 ----------------------------------
+Total Commits: 1726
+Total Lines of Code: 194724
+Test generation time: 0 seconds
+----------------------------------------------- COMMONS-COMPRESS_32_BUGGY VERSION: 1 ----------------------------------
+Total Commits: 1736
+Total Lines of Code: 195554
+Test generation time: 0 seconds
+----------------------------------------------- COMMONS-COMPRESS_33_BUGGY VERSION: 1 ----------------------------------
+Total Commits: 1738
+Total Lines of Code: 195610
+Test generation time: 0 seconds
+----------------------------------------------- COMMONS-COMPRESS_34_BUGGY VERSION: 1 ----------------------------------
+Total Commits: 1753
+Total Lines of Code: 196364
+Test generation time: 0 seconds
+----------------------------------------------- COMMONS-COMPRESS_35_BUGGY VERSION: 1 ----------------------------------
+Total Commits: 1791
+Total Lines of Code: 199450
+Test generation time: 0 seconds
+----------------------------------------------- COMMONS-COMPRESS_36_BUGGY VERSION: 1 ----------------------------------
+Total Commits: 1862
+Total Lines of Code: 244432
+Test generation time: 0 seconds
+----------------------------------------------- COMMONS-COMPRESS_37_BUGGY VERSION: 1 ----------------------------------
+Total Commits: 1872
+Total Lines of Code: 246206
+Test generation time: 0 seconds
+----------------------------------------------- COMMONS-COMPRESS_38_BUGGY VERSION: 1 ----------------------------------
+Total Commits: 1873
+Total Lines of Code: 245526
+Test generation time: 0 seconds
+----------------------------------------------- COMMONS-COMPRESS_39_BUGGY VERSION: 1 ----------------------------------
+Total Commits: 1881
+Total Lines of Code: 248368
+Test generation time: 0 seconds
+----------------------------------------------- COMMONS-COMPRESS_40_BUGGY VERSION: 1 ----------------------------------
+Total Commits: 1914
+Total Lines of Code: 248168
+Test generation time: 0 seconds
+----------------------------------------------- COMMONS-COMPRESS_41_BUGGY VERSION: 1 ----------------------------------
+Total Commits: 2010
+Total Lines of Code: 254376
+Test generation time: 0 seconds
+----------------------------------------------- COMMONS-COMPRESS_42_BUGGY VERSION: 1 ----------------------------------
+Total Commits: 2071
+Total Lines of Code: 268574
+Test generation time: 0 seconds
+----------------------------------------------- COMMONS-COMPRESS_43_BUGGY VERSION: 1 ----------------------------------
+Total Commits: 2252
+Total Lines of Code: 301314
+Test generation time: 0 seconds
+----------------------------------------------- COMMONS-COMPRESS_44_BUGGY VERSION: 1 ----------------------------------
+Total Commits: 2276
+Total Lines of Code: 303770
+Test generation time: 0 seconds
+----------------------------------------------- COMMONS-COMPRESS_45_BUGGY VERSION: 1 ----------------------------------
+Total Commits: 2281
+Total Lines of Code: 303800
+Test generation time: 0 seconds
+----------------------------------------------- COMMONS-COMPRESS_46_BUGGY VERSION: 1 ----------------------------------
+Total Commits: 2299
+Total Lines of Code: 307022
+Test generation time: 0 seconds
+----------------------------------------------- COMMONS-COMPRESS_47_BUGGY VERSION: 1 ----------------------------------
+Total Commits: 2463
+Total Lines of Code: 311828
+Test generation time: 0 seconds

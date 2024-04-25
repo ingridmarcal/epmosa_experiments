@@ -1,0 +1,960 @@
+
+----------------------------------------------- LANG_1_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 82 seconds
+
+----------------------------------------------- LANG_1_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 91 seconds
+
+----------------------------------------------- LANG_1_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 86 seconds
+
+----------------------------------------------- LANG_1_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 88 seconds
+
+----------------------------------------------- LANG_1_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 90 seconds
+
+----------------------------------------------- LANG_2_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 0 seconds
+
+----------------------------------------------- LANG_2_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 0 seconds
+
+----------------------------------------------- LANG_2_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 0 seconds
+
+----------------------------------------------- LANG_2_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 0 seconds
+
+----------------------------------------------- LANG_2_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 0 seconds
+
+----------------------------------------------- LANG_3_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 89 seconds
+
+----------------------------------------------- LANG_3_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 85 seconds
+
+----------------------------------------------- LANG_3_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 81 seconds
+
+----------------------------------------------- LANG_3_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 85 seconds
+
+----------------------------------------------- LANG_3_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 82 seconds
+
+----------------------------------------------- LANG_4_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 15 seconds
+
+----------------------------------------------- LANG_4_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 13 seconds
+
+----------------------------------------------- LANG_4_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 14 seconds
+
+----------------------------------------------- LANG_4_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 15 seconds
+
+----------------------------------------------- LANG_4_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 17 seconds
+
+----------------------------------------------- LANG_5_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 72 seconds
+
+----------------------------------------------- LANG_5_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 72 seconds
+
+----------------------------------------------- LANG_5_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 30 seconds
+
+----------------------------------------------- LANG_5_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 68 seconds
+
+----------------------------------------------- LANG_5_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 72 seconds
+
+----------------------------------------------- LANG_6_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 18 seconds
+
+----------------------------------------------- LANG_6_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 19 seconds
+
+----------------------------------------------- LANG_6_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 16 seconds
+
+----------------------------------------------- LANG_6_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 15 seconds
+
+----------------------------------------------- LANG_6_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 18 seconds
+
+----------------------------------------------- LANG_7_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 85 seconds
+
+----------------------------------------------- LANG_7_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 84 seconds
+
+----------------------------------------------- LANG_7_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 85 seconds
+
+----------------------------------------------- LANG_7_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 84 seconds
+
+----------------------------------------------- LANG_7_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 82 seconds
+
+----------------------------------------------- LANG_8_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 299 seconds
+
+----------------------------------------------- LANG_8_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 320 seconds
+
+----------------------------------------------- LANG_8_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 279 seconds
+
+----------------------------------------------- LANG_8_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 296 seconds
+
+----------------------------------------------- LANG_8_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 220 seconds
+
+----------------------------------------------- LANG_9_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 89 seconds
+
+----------------------------------------------- LANG_9_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 84 seconds
+
+----------------------------------------------- LANG_9_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 82 seconds
+
+----------------------------------------------- LANG_9_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 82 seconds
+
+----------------------------------------------- LANG_9_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 77 seconds
+
+----------------------------------------------- LANG_10_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 88 seconds
+
+----------------------------------------------- LANG_10_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 90 seconds
+
+----------------------------------------------- LANG_10_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 87 seconds
+
+----------------------------------------------- LANG_10_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 84 seconds
+
+----------------------------------------------- LANG_10_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 87 seconds
+
+----------------------------------------------- LANG_11_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 114 seconds
+
+----------------------------------------------- LANG_11_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 112 seconds
+
+----------------------------------------------- LANG_11_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 166 seconds
+
+----------------------------------------------- LANG_11_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 112 seconds
+
+----------------------------------------------- LANG_11_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 99 seconds
+
+----------------------------------------------- LANG_12_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 72 seconds
+
+----------------------------------------------- LANG_12_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 106 seconds
+
+----------------------------------------------- LANG_12_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 85 seconds
+
+----------------------------------------------- LANG_12_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 101 seconds
+
+----------------------------------------------- LANG_12_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 48 seconds
+
+----------------------------------------------- LANG_13_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 71 seconds
+
+----------------------------------------------- LANG_13_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 71 seconds
+
+----------------------------------------------- LANG_13_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 70 seconds
+
+----------------------------------------------- LANG_13_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 70 seconds
+
+----------------------------------------------- LANG_13_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 70 seconds
+
+----------------------------------------------- LANG_14_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 230 seconds
+
+----------------------------------------------- LANG_14_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 202 seconds
+
+----------------------------------------------- LANG_14_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 178 seconds
+
+----------------------------------------------- LANG_14_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 177 seconds
+
+----------------------------------------------- LANG_14_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 231 seconds
+
+----------------------------------------------- LANG_15_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 77 seconds
+
+----------------------------------------------- LANG_15_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 76 seconds
+
+----------------------------------------------- LANG_15_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 77 seconds
+
+----------------------------------------------- LANG_15_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 82 seconds
+
+----------------------------------------------- LANG_15_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 76 seconds
+
+----------------------------------------------- LANG_16_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 85 seconds
+
+----------------------------------------------- LANG_16_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 80 seconds
+
+----------------------------------------------- LANG_16_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 81 seconds
+
+----------------------------------------------- LANG_16_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 85 seconds
+
+----------------------------------------------- LANG_16_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 82 seconds
+
+----------------------------------------------- LANG_17_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 17 seconds
+
+----------------------------------------------- LANG_17_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 12 seconds
+
+----------------------------------------------- LANG_17_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 19 seconds
+
+----------------------------------------------- LANG_17_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 14 seconds
+
+----------------------------------------------- LANG_17_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 16 seconds
+
+----------------------------------------------- LANG_18_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 188 seconds
+
+----------------------------------------------- LANG_18_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 174 seconds
+
+----------------------------------------------- LANG_18_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 116 seconds
+
+----------------------------------------------- LANG_18_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 211 seconds
+
+----------------------------------------------- LANG_18_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 183 seconds
+
+----------------------------------------------- LANG_19_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 72 seconds
+
+----------------------------------------------- LANG_19_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 48 seconds
+
+----------------------------------------------- LANG_19_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 73 seconds
+
+----------------------------------------------- LANG_19_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 71 seconds
+
+----------------------------------------------- LANG_19_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 72 seconds
+
+----------------------------------------------- LANG_20_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 198 seconds
+
+----------------------------------------------- LANG_20_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 260 seconds
+
+----------------------------------------------- LANG_20_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 140 seconds
+
+----------------------------------------------- LANG_20_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 322 seconds
+
+----------------------------------------------- LANG_20_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 171 seconds
+
+----------------------------------------------- LANG_21_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 156 seconds
+
+----------------------------------------------- LANG_21_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 127 seconds
+
+----------------------------------------------- LANG_21_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 139 seconds
+
+----------------------------------------------- LANG_21_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 137 seconds
+
+----------------------------------------------- LANG_21_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 214 seconds
+
+----------------------------------------------- LANG_22_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 97 seconds
+
+----------------------------------------------- LANG_22_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 89 seconds
+
+----------------------------------------------- LANG_22_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 86 seconds
+
+----------------------------------------------- LANG_22_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 92 seconds
+
+----------------------------------------------- LANG_22_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 87 seconds
+
+----------------------------------------------- LANG_23_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 71 seconds
+
+----------------------------------------------- LANG_23_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 73 seconds
+
+----------------------------------------------- LANG_23_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 74 seconds
+
+----------------------------------------------- LANG_23_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 74 seconds
+
+----------------------------------------------- LANG_23_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 73 seconds
+
+----------------------------------------------- LANG_24_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 85 seconds
+
+----------------------------------------------- LANG_24_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 87 seconds
+
+----------------------------------------------- LANG_24_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 82 seconds
+
+----------------------------------------------- LANG_24_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 79 seconds
+
+----------------------------------------------- LANG_24_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 82 seconds
+
+----------------------------------------------- LANG_25_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 12 seconds
+
+----------------------------------------------- LANG_25_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 14 seconds
+
+----------------------------------------------- LANG_25_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 12 seconds
+
+----------------------------------------------- LANG_25_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 10 seconds
+
+----------------------------------------------- LANG_25_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 11 seconds
+
+----------------------------------------------- LANG_26_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 184 seconds
+
+----------------------------------------------- LANG_26_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 190 seconds
+
+----------------------------------------------- LANG_26_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 165 seconds
+
+----------------------------------------------- LANG_26_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 150 seconds
+
+----------------------------------------------- LANG_26_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 129 seconds
+
+----------------------------------------------- LANG_27_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 77 seconds
+
+----------------------------------------------- LANG_27_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 76 seconds
+
+----------------------------------------------- LANG_27_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 80 seconds
+
+----------------------------------------------- LANG_27_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 84 seconds
+
+----------------------------------------------- LANG_27_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 84 seconds
+
+----------------------------------------------- LANG_28_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 70 seconds
+
+----------------------------------------------- LANG_28_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 73 seconds
+
+----------------------------------------------- LANG_28_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 73 seconds
+
+----------------------------------------------- LANG_28_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 72 seconds
+
+----------------------------------------------- LANG_28_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 73 seconds
+
+----------------------------------------------- LANG_29_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 72 seconds
+
+----------------------------------------------- LANG_29_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 73 seconds
+
+----------------------------------------------- LANG_29_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 72 seconds
+
+----------------------------------------------- LANG_29_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 72 seconds
+
+----------------------------------------------- LANG_29_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 76 seconds
+
+----------------------------------------------- LANG_30_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 173 seconds
+
+----------------------------------------------- LANG_30_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 181 seconds
+
+----------------------------------------------- LANG_30_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 191 seconds
+
+----------------------------------------------- LANG_30_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 158 seconds
+
+----------------------------------------------- LANG_30_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 192 seconds
+
+----------------------------------------------- LANG_31_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 145 seconds
+
+----------------------------------------------- LANG_31_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 133 seconds
+
+----------------------------------------------- LANG_31_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 163 seconds
+
+----------------------------------------------- LANG_31_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 212 seconds
+
+----------------------------------------------- LANG_31_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 152 seconds
+
+----------------------------------------------- LANG_32_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 86 seconds
+
+----------------------------------------------- LANG_32_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 75 seconds
+
+----------------------------------------------- LANG_32_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 76 seconds
+
+----------------------------------------------- LANG_32_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 84 seconds
+
+----------------------------------------------- LANG_32_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 77 seconds
+
+----------------------------------------------- LANG_33_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 81 seconds
+
+----------------------------------------------- LANG_33_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 82 seconds
+
+----------------------------------------------- LANG_33_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 80 seconds
+
+----------------------------------------------- LANG_33_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 77 seconds
+
+----------------------------------------------- LANG_33_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 78 seconds
+
+----------------------------------------------- LANG_34_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 81 seconds
+
+----------------------------------------------- LANG_34_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 85 seconds
+
+----------------------------------------------- LANG_34_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 84 seconds
+
+----------------------------------------------- LANG_34_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 82 seconds
+
+----------------------------------------------- LANG_34_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 85 seconds
+
+----------------------------------------------- LANG_35_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 115 seconds
+
+----------------------------------------------- LANG_35_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 114 seconds
+
+----------------------------------------------- LANG_35_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 104 seconds
+
+----------------------------------------------- LANG_35_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 98 seconds
+
+----------------------------------------------- LANG_35_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 115 seconds
+
+----------------------------------------------- LANG_36_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 79 seconds
+
+----------------------------------------------- LANG_36_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 79 seconds
+
+----------------------------------------------- LANG_36_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 88 seconds
+
+----------------------------------------------- LANG_36_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 82 seconds
+
+----------------------------------------------- LANG_36_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 87 seconds
+
+----------------------------------------------- LANG_37_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 121 seconds
+
+----------------------------------------------- LANG_37_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 126 seconds
+
+----------------------------------------------- LANG_37_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 117 seconds
+
+----------------------------------------------- LANG_37_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 113 seconds
+
+----------------------------------------------- LANG_37_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 112 seconds
+
+----------------------------------------------- LANG_38_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 185 seconds
+
+----------------------------------------------- LANG_38_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 203 seconds
+
+----------------------------------------------- LANG_38_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 233 seconds
+
+----------------------------------------------- LANG_38_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 163 seconds
+
+----------------------------------------------- LANG_38_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 173 seconds
+
+----------------------------------------------- LANG_39_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 123 seconds
+
+----------------------------------------------- LANG_39_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 119 seconds
+
+----------------------------------------------- LANG_39_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 127 seconds
+
+----------------------------------------------- LANG_39_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 114 seconds
+
+----------------------------------------------- LANG_39_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 148 seconds
+
+----------------------------------------------- LANG_40_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 131 seconds
+
+----------------------------------------------- LANG_40_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 123 seconds
+
+----------------------------------------------- LANG_40_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 127 seconds
+
+----------------------------------------------- LANG_40_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 123 seconds
+
+----------------------------------------------- LANG_40_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 138 seconds
+
+----------------------------------------------- LANG_41_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 76 seconds
+
+----------------------------------------------- LANG_41_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 74 seconds
+
+----------------------------------------------- LANG_41_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 74 seconds
+
+----------------------------------------------- LANG_41_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 73 seconds
+
+----------------------------------------------- LANG_41_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 75 seconds
+
+----------------------------------------------- LANG_42_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 74 seconds
+
+----------------------------------------------- LANG_42_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 72 seconds
+
+----------------------------------------------- LANG_42_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 75 seconds
+
+----------------------------------------------- LANG_42_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 74 seconds
+
+----------------------------------------------- LANG_42_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 76 seconds
+
+----------------------------------------------- LANG_43_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 76 seconds
+
+----------------------------------------------- LANG_43_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 80 seconds
+
+----------------------------------------------- LANG_43_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 76 seconds
+
+----------------------------------------------- LANG_43_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 74 seconds
+
+----------------------------------------------- LANG_43_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 75 seconds
+
+----------------------------------------------- LANG_44_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 72 seconds
+
+----------------------------------------------- LANG_44_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 72 seconds
+
+----------------------------------------------- LANG_44_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 71 seconds
+
+----------------------------------------------- LANG_44_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 73 seconds
+
+----------------------------------------------- LANG_44_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 71 seconds
+
+----------------------------------------------- LANG_45_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 76 seconds
+
+----------------------------------------------- LANG_45_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 72 seconds
+
+----------------------------------------------- LANG_45_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 74 seconds
+
+----------------------------------------------- LANG_45_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 73 seconds
+
+----------------------------------------------- LANG_45_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 73 seconds
+
+----------------------------------------------- LANG_46_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 72 seconds
+
+----------------------------------------------- LANG_46_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 70 seconds
+
+----------------------------------------------- LANG_46_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 71 seconds
+
+----------------------------------------------- LANG_46_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 70 seconds
+
+----------------------------------------------- LANG_46_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 71 seconds
+
+----------------------------------------------- LANG_47_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 109 seconds
+
+----------------------------------------------- LANG_47_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 127 seconds
+
+----------------------------------------------- LANG_47_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 136 seconds
+
+----------------------------------------------- LANG_47_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 111 seconds
+
+----------------------------------------------- LANG_47_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 117 seconds
+
+----------------------------------------------- LANG_48_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 75 seconds
+
+----------------------------------------------- LANG_48_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 74 seconds
+
+----------------------------------------------- LANG_48_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 74 seconds
+
+----------------------------------------------- LANG_48_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 74 seconds
+
+----------------------------------------------- LANG_48_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 75 seconds
+
+----------------------------------------------- LANG_49_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 82 seconds
+
+----------------------------------------------- LANG_49_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 80 seconds
+
+----------------------------------------------- LANG_49_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 88 seconds
+
+----------------------------------------------- LANG_49_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 81 seconds
+
+----------------------------------------------- LANG_49_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 83 seconds
+
+----------------------------------------------- LANG_50_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 144 seconds
+
+----------------------------------------------- LANG_50_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 142 seconds
+
+----------------------------------------------- LANG_50_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 153 seconds
+
+----------------------------------------------- LANG_50_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 152 seconds
+
+----------------------------------------------- LANG_50_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 156 seconds
+
+----------------------------------------------- LANG_51_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 74 seconds
+
+----------------------------------------------- LANG_51_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 76 seconds
+
+----------------------------------------------- LANG_51_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 74 seconds
+
+----------------------------------------------- LANG_51_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 73 seconds
+
+----------------------------------------------- LANG_51_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 72 seconds
+
+----------------------------------------------- LANG_52_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 71 seconds
+
+----------------------------------------------- LANG_52_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 71 seconds
+
+----------------------------------------------- LANG_52_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 70 seconds
+
+----------------------------------------------- LANG_52_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 71 seconds
+
+----------------------------------------------- LANG_52_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 71 seconds
+
+----------------------------------------------- LANG_53_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 121 seconds
+
+----------------------------------------------- LANG_53_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 120 seconds
+
+----------------------------------------------- LANG_53_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 136 seconds
+
+----------------------------------------------- LANG_53_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 116 seconds
+
+----------------------------------------------- LANG_53_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 105 seconds
+
+----------------------------------------------- LANG_54_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 69 seconds
+
+----------------------------------------------- LANG_54_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 37 seconds
+
+----------------------------------------------- LANG_54_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 46 seconds
+
+----------------------------------------------- LANG_54_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 70 seconds
+
+----------------------------------------------- LANG_54_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 46 seconds
+
+----------------------------------------------- LANG_55_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 69 seconds
+
+----------------------------------------------- LANG_55_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 69 seconds
+
+----------------------------------------------- LANG_55_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 69 seconds
+
+----------------------------------------------- LANG_55_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 70 seconds
+
+----------------------------------------------- LANG_55_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 70 seconds
+
+----------------------------------------------- LANG_56_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 153 seconds
+
+----------------------------------------------- LANG_56_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 177 seconds
+
+----------------------------------------------- LANG_56_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 139 seconds
+
+----------------------------------------------- LANG_56_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 157 seconds
+
+----------------------------------------------- LANG_56_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 152 seconds
+
+----------------------------------------------- LANG_57_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 55 seconds
+
+----------------------------------------------- LANG_57_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 46 seconds
+
+----------------------------------------------- LANG_57_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 72 seconds
+
+----------------------------------------------- LANG_57_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 36 seconds
+
+----------------------------------------------- LANG_57_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 70 seconds
+
+----------------------------------------------- LANG_58_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 79 seconds
+
+----------------------------------------------- LANG_58_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 78 seconds
+
+----------------------------------------------- LANG_58_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 80 seconds
+
+----------------------------------------------- LANG_58_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 78 seconds
+
+----------------------------------------------- LANG_58_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 78 seconds
+
+----------------------------------------------- LANG_59_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 142 seconds
+
+----------------------------------------------- LANG_59_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 114 seconds
+
+----------------------------------------------- LANG_59_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 123 seconds
+
+----------------------------------------------- LANG_59_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 108 seconds
+
+----------------------------------------------- LANG_59_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 120 seconds
+
+----------------------------------------------- LANG_60_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 121 seconds
+
+----------------------------------------------- LANG_60_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 109 seconds
+
+----------------------------------------------- LANG_60_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 119 seconds
+
+----------------------------------------------- LANG_60_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 101 seconds
+
+----------------------------------------------- LANG_60_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 118 seconds
+
+----------------------------------------------- LANG_61_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 113 seconds
+
+----------------------------------------------- LANG_61_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 101 seconds
+
+----------------------------------------------- LANG_61_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 122 seconds
+
+----------------------------------------------- LANG_61_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 126 seconds
+
+----------------------------------------------- LANG_61_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 114 seconds
+
+----------------------------------------------- LANG_62_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 75 seconds
+
+----------------------------------------------- LANG_62_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 74 seconds
+
+----------------------------------------------- LANG_62_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 73 seconds
+
+----------------------------------------------- LANG_62_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 74 seconds
+
+----------------------------------------------- LANG_62_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 75 seconds
+
+----------------------------------------------- LANG_63_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 75 seconds
+
+----------------------------------------------- LANG_63_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 76 seconds
+
+----------------------------------------------- LANG_63_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 78 seconds
+
+----------------------------------------------- LANG_63_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 73 seconds
+
+----------------------------------------------- LANG_63_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 76 seconds
+
+----------------------------------------------- LANG_64_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 68 seconds
+
+----------------------------------------------- LANG_64_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 68 seconds
+
+----------------------------------------------- LANG_64_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 69 seconds
+
+----------------------------------------------- LANG_64_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 68 seconds
+
+----------------------------------------------- LANG_64_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 68 seconds

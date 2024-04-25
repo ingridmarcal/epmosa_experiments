@@ -1,0 +1,390 @@
+
+----------------------------------------------- JODA-TIME_1_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 152 seconds
+
+----------------------------------------------- JODA-TIME_1_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 162 seconds
+
+----------------------------------------------- JODA-TIME_1_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 148 seconds
+
+----------------------------------------------- JODA-TIME_1_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 175 seconds
+
+----------------------------------------------- JODA-TIME_1_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 167 seconds
+
+----------------------------------------------- JODA-TIME_2_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 170 seconds
+
+----------------------------------------------- JODA-TIME_2_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 167 seconds
+
+----------------------------------------------- JODA-TIME_2_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 170 seconds
+
+----------------------------------------------- JODA-TIME_2_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 143 seconds
+
+----------------------------------------------- JODA-TIME_2_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 152 seconds
+
+----------------------------------------------- JODA-TIME_3_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 90 seconds
+
+----------------------------------------------- JODA-TIME_3_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 86 seconds
+
+----------------------------------------------- JODA-TIME_3_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 90 seconds
+
+----------------------------------------------- JODA-TIME_3_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 92 seconds
+
+----------------------------------------------- JODA-TIME_3_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 83 seconds
+
+----------------------------------------------- JODA-TIME_4_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 90 seconds
+
+----------------------------------------------- JODA-TIME_4_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 86 seconds
+
+----------------------------------------------- JODA-TIME_4_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 89 seconds
+
+----------------------------------------------- JODA-TIME_4_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 87 seconds
+
+----------------------------------------------- JODA-TIME_4_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 62 seconds
+
+----------------------------------------------- JODA-TIME_5_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 47 seconds
+
+----------------------------------------------- JODA-TIME_5_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 46 seconds
+
+----------------------------------------------- JODA-TIME_5_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 86 seconds
+
+----------------------------------------------- JODA-TIME_5_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 83 seconds
+
+----------------------------------------------- JODA-TIME_5_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 87 seconds
+
+----------------------------------------------- JODA-TIME_6_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 85 seconds
+
+----------------------------------------------- JODA-TIME_6_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 93 seconds
+
+----------------------------------------------- JODA-TIME_6_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 85 seconds
+
+----------------------------------------------- JODA-TIME_6_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 88 seconds
+
+----------------------------------------------- JODA-TIME_6_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 94 seconds
+
+----------------------------------------------- JODA-TIME_7_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 98 seconds
+
+----------------------------------------------- JODA-TIME_7_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 98 seconds
+
+----------------------------------------------- JODA-TIME_7_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 100 seconds
+
+----------------------------------------------- JODA-TIME_7_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 96 seconds
+
+----------------------------------------------- JODA-TIME_7_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 100 seconds
+
+----------------------------------------------- JODA-TIME_8_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 97 seconds
+
+----------------------------------------------- JODA-TIME_8_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 109 seconds
+
+----------------------------------------------- JODA-TIME_8_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 103 seconds
+
+----------------------------------------------- JODA-TIME_8_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 98 seconds
+
+----------------------------------------------- JODA-TIME_8_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 98 seconds
+
+----------------------------------------------- JODA-TIME_9_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 93 seconds
+
+----------------------------------------------- JODA-TIME_9_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 97 seconds
+
+----------------------------------------------- JODA-TIME_9_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 97 seconds
+
+----------------------------------------------- JODA-TIME_9_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 100 seconds
+
+----------------------------------------------- JODA-TIME_9_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 97 seconds
+
+----------------------------------------------- JODA-TIME_10_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 90 seconds
+
+----------------------------------------------- JODA-TIME_10_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 91 seconds
+
+----------------------------------------------- JODA-TIME_10_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 96 seconds
+
+----------------------------------------------- JODA-TIME_10_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 86 seconds
+
+----------------------------------------------- JODA-TIME_10_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 91 seconds
+
+----------------------------------------------- JODA-TIME_11_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 96 seconds
+
+----------------------------------------------- JODA-TIME_11_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 99 seconds
+
+----------------------------------------------- JODA-TIME_11_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 94 seconds
+
+----------------------------------------------- JODA-TIME_11_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 93 seconds
+
+----------------------------------------------- JODA-TIME_11_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 99 seconds
+
+----------------------------------------------- JODA-TIME_12_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 180 seconds
+
+----------------------------------------------- JODA-TIME_12_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 181 seconds
+
+----------------------------------------------- JODA-TIME_12_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 168 seconds
+
+----------------------------------------------- JODA-TIME_12_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 173 seconds
+
+----------------------------------------------- JODA-TIME_12_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 163 seconds
+
+----------------------------------------------- JODA-TIME_13_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 114 seconds
+
+----------------------------------------------- JODA-TIME_13_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 107 seconds
+
+----------------------------------------------- JODA-TIME_13_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 109 seconds
+
+----------------------------------------------- JODA-TIME_13_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 115 seconds
+
+----------------------------------------------- JODA-TIME_13_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 101 seconds
+
+----------------------------------------------- JODA-TIME_14_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 84 seconds
+
+----------------------------------------------- JODA-TIME_14_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 88 seconds
+
+----------------------------------------------- JODA-TIME_14_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 84 seconds
+
+----------------------------------------------- JODA-TIME_14_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 83 seconds
+
+----------------------------------------------- JODA-TIME_14_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 83 seconds
+
+----------------------------------------------- JODA-TIME_15_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 84 seconds
+
+----------------------------------------------- JODA-TIME_15_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 85 seconds
+
+----------------------------------------------- JODA-TIME_15_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 82 seconds
+
+----------------------------------------------- JODA-TIME_15_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 85 seconds
+
+----------------------------------------------- JODA-TIME_15_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 84 seconds
+
+----------------------------------------------- JODA-TIME_16_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 89 seconds
+
+----------------------------------------------- JODA-TIME_16_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 92 seconds
+
+----------------------------------------------- JODA-TIME_16_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 93 seconds
+
+----------------------------------------------- JODA-TIME_16_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 94 seconds
+
+----------------------------------------------- JODA-TIME_16_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 88 seconds
+
+----------------------------------------------- JODA-TIME_17_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 94 seconds
+
+----------------------------------------------- JODA-TIME_17_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 91 seconds
+
+----------------------------------------------- JODA-TIME_17_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 87 seconds
+
+----------------------------------------------- JODA-TIME_17_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 85 seconds
+
+----------------------------------------------- JODA-TIME_17_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 86 seconds
+
+----------------------------------------------- JODA-TIME_18_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 94 seconds
+
+----------------------------------------------- JODA-TIME_18_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 89 seconds
+
+----------------------------------------------- JODA-TIME_18_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 85 seconds
+
+----------------------------------------------- JODA-TIME_18_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 87 seconds
+
+----------------------------------------------- JODA-TIME_18_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 88 seconds
+
+----------------------------------------------- JODA-TIME_19_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 91 seconds
+
+----------------------------------------------- JODA-TIME_19_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 82 seconds
+
+----------------------------------------------- JODA-TIME_19_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 85 seconds
+
+----------------------------------------------- JODA-TIME_19_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 88 seconds
+
+----------------------------------------------- JODA-TIME_19_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 92 seconds
+
+----------------------------------------------- JODA-TIME_20_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 110 seconds
+
+----------------------------------------------- JODA-TIME_20_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 102 seconds
+
+----------------------------------------------- JODA-TIME_20_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 104 seconds
+
+----------------------------------------------- JODA-TIME_20_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 103 seconds
+
+----------------------------------------------- JODA-TIME_20_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 102 seconds
+
+----------------------------------------------- JODA-TIME_21_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 0 seconds
+
+----------------------------------------------- JODA-TIME_21_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 0 seconds
+
+----------------------------------------------- JODA-TIME_21_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 0 seconds
+
+----------------------------------------------- JODA-TIME_21_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 0 seconds
+
+----------------------------------------------- JODA-TIME_21_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 1 seconds
+
+----------------------------------------------- JODA-TIME_22_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 81 seconds
+
+----------------------------------------------- JODA-TIME_22_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 79 seconds
+
+----------------------------------------------- JODA-TIME_22_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 80 seconds
+
+----------------------------------------------- JODA-TIME_22_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 83 seconds
+
+----------------------------------------------- JODA-TIME_22_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 79 seconds
+
+----------------------------------------------- JODA-TIME_23_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 81 seconds
+
+----------------------------------------------- JODA-TIME_23_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 81 seconds
+
+----------------------------------------------- JODA-TIME_23_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 83 seconds
+
+----------------------------------------------- JODA-TIME_23_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 82 seconds
+
+----------------------------------------------- JODA-TIME_23_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 84 seconds
+
+----------------------------------------------- JODA-TIME_24_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 82 seconds
+
+----------------------------------------------- JODA-TIME_24_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 82 seconds
+
+----------------------------------------------- JODA-TIME_24_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 82 seconds
+
+----------------------------------------------- JODA-TIME_24_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 82 seconds
+
+----------------------------------------------- JODA-TIME_24_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 84 seconds
+
+----------------------------------------------- JODA-TIME_25_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 84 seconds
+
+----------------------------------------------- JODA-TIME_25_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 83 seconds
+
+----------------------------------------------- JODA-TIME_25_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 83 seconds
+
+----------------------------------------------- JODA-TIME_25_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 84 seconds
+
+----------------------------------------------- JODA-TIME_25_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 82 seconds
+
+----------------------------------------------- JODA-TIME_26_BUGGY VERSION: 1 ----------------------------------
+Test generation time: 162 seconds
+
+----------------------------------------------- JODA-TIME_26_BUGGY VERSION: 2 ----------------------------------
+Test generation time: 159 seconds
+
+----------------------------------------------- JODA-TIME_26_BUGGY VERSION: 3 ----------------------------------
+Test generation time: 158 seconds
+
+----------------------------------------------- JODA-TIME_26_BUGGY VERSION: 4 ----------------------------------
+Test generation time: 159 seconds
+
+----------------------------------------------- JODA-TIME_26_BUGGY VERSION: 5 ----------------------------------
+Test generation time: 159 seconds
